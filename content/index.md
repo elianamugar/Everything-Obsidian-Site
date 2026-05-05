@@ -1,5 +1,8 @@
+---
+title: launchpad
+---
 <div class="launch-hero">
-  <img src="./8\ -\ Source\ Images\ +\ Audio/grand_tour.jpg" alt="banner" />
+  <img src="./8 - Source Images + Audio/grand_tour.jpg" alt="banner" />
   <div class="launch-fade"></div>
   <div class="launch-content">
     <h1>launchpad</h1>
