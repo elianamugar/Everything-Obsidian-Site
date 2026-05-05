@@ -1,8 +1,10 @@
 ---
-banner: "![[grand_tour.jpg]]"
-banner_y: 0.382
+title: launchpad
 ---
-```search-bar
-show recent files
-show starred files
-```
+
+# launchpad
+---
+<div class ="banner">
+    <img src="/8\ -\ Source\ Images\ +\ Audio/grand_tour.jpg" />
+</div>
+---
