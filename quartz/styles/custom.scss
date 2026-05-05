@@ -150,3 +150,97 @@ body {
   background: rgba(255,255,255,0.92);
   color: #111;
 }
+
+.launch-graph-card {
+  position: relative;
+  display: block;
+  min-height: 320px;
+  margin: 2rem 0;
+  padding: 2rem;
+  border-radius: 28px;
+  overflow: hidden;
+  text-decoration: none;
+  color: var(--dark);
+  background:
+    radial-gradient(circle at 20% 20%, rgba(130, 130, 255, 0.22), transparent 28%),
+    radial-gradient(circle at 80% 70%, rgba(255, 140, 190, 0.18), transparent 32%),
+    var(--lightgray);
+  box-shadow: 0 24px 70px rgba(0, 0, 0, 0.14);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+  animation: fadeUp 800ms ease both;
+}
+
+.launch-graph-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 34px 90px rgba(0, 0, 0, 0.2);
+}
+
+.launch-graph-text {
+  position: relative;
+  z-index: 2;
+  max-width: 520px;
+}
+
+.launch-graph-text .eyebrow {
+  margin: 0 0 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.75rem;
+  opacity: 0.7;
+}
+
+.launch-graph-text h2 {
+  margin: 0;
+  font-size: clamp(2rem, 5vw, 4rem);
+  letter-spacing: -0.06em;
+}
+
+.launch-graph-text p {
+  font-size: 1.05rem;
+}
+
+.launch-graph-orb {
+  position: absolute;
+  border-radius: 999px;
+  background: var(--secondary);
+  opacity: 0.45;
+  filter: blur(1px);
+}
+
+.orb-one {
+  width: 96px;
+  height: 96px;
+  right: 18%;
+  top: 22%;
+}
+
+.orb-two {
+  width: 56px;
+  height: 56px;
+  right: 34%;
+  bottom: 24%;
+}
+
+.launch-graph-lines span {
+  position: absolute;
+  height: 2px;
+  width: 220px;
+  right: 10%;
+  top: 45%;
+  background: currentColor;
+  opacity: 0.16;
+  transform-origin: right center;
+}
+
+.launch-graph-lines span:nth-child(1) { transform: rotate(16deg); }
+.launch-graph-lines span:nth-child(2) { transform: rotate(-18deg); top: 55%; }
+.launch-graph-lines span:nth-child(3) { transform: rotate(42deg); width: 150px; }
+.launch-graph-lines span:nth-child(4) { transform: rotate(-48deg); width: 150px; top: 62%; }
+
+[saved-theme="dark"] .launch-graph-card {
+  color: var(--light);
+  background:
+    radial-gradient(circle at 20% 20%, rgba(150, 150, 255, 0.24), transparent 28%),
+    radial-gradient(circle at 80% 70%, rgba(255, 130, 190, 0.18), transparent 32%),
+    rgba(255, 255, 255, 0.06);
+}

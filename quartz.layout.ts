@@ -43,10 +43,18 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph({
   localGraph: {
-    depth: 2,
+    depth: 1,
+    scale: 1.1,
+    repelForce: 0.5,
+    linkDistance: 30,
+    fontSize: 0.6,
   },
   globalGraph: {
-    depth: 1,
+    depth: -1,
+    scale: 0.9,
+    repelForce: 0.5,
+    linkDistance: 30,
+    fontSize: 0.6,
   },
 }),
     Component.DesktopOnly(Component.TableOfContents()),
