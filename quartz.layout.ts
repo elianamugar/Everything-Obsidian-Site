@@ -5,7 +5,19 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+  Component.ConditionalRender({
+    component: Component.Graph({
+      localGraph: {
+        depth: -1,
+      },
+      globalGraph: {
+        depth: -1,
+      },
+    }),
+    condition: (page) => page.fileData.slug === "index",
+  }),
+],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -19,6 +31,28 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
+      condition: (page) => page.fileData.slug === "index" || page.fileData.slug === "",
+    }),
+    Component.ConditionalRender({
+      component: Component.Graph({
+        localGraph: {
+          depth: 2,
+          scale: 1.05,
+          repelForce: 0.7,
+          centerForce: 0.35,
+          linkDistance: 45,
+          fontSize: 0.65,
+        },
+        globalGraph: {
+          depth: -1,
+          scale: 0.9,
+          repelForce: 0.7,
+          centerForce: 0.35,
+          linkDistance: 45,
+          fontSize: 0.65,
+          enableRadial: true,
+        },
+      }),
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
