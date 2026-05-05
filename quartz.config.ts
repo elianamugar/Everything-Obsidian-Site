@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "baseUrl: "elianamugar.github.io/Everything-Obsidian-Site",",
+    baseUrl: "elianamugar.github.io/Everything-Obsidian-Site",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
