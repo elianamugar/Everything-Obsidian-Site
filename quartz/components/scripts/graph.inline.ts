@@ -449,7 +449,17 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     linkRenderData.push(linkRenderDatum)
   }
 
-  let currentTransform = zoomIdentity
+  const isHomepageGraph = slug === "index"
+const initialZoom = isHomepageGraph ? 0.25 : 1
+const initialX = width * (1 - initialZoom) / 2
+const initialY = height * (1 - initialZoom) / 2
+
+let currentTransform = zoomIdentity
+  .translate(initialX, initialY)
+  .scale(initialZoom)
+
+stage.scale.set(initialZoom, initialZoom)
+stage.position.set(initialX, initialY)
   if (enableDrag) {
     select<HTMLCanvasElement, NodeData | undefined>(app.canvas).call(
       drag<HTMLCanvasElement, NodeData | undefined>()
@@ -497,31 +507,32 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   if (enableZoom) {
-    select<HTMLCanvasElement, NodeData>(app.canvas).call(
-      zoom<HTMLCanvasElement, NodeData>()
-        .extent([
-          [0, 0],
-          [width, height],
-        ])
-        .scaleExtent([0.25, 4])
-        .on("zoom", ({ transform }) => {
-          currentTransform = transform
-          stage.scale.set(transform.k, transform.k)
-          stage.position.set(transform.x, transform.y)
+  const zoomBehavior = zoom<HTMLCanvasElement, unknown>()
+    .extent([
+      [0, 0],
+      [width, height],
+    ])
+    .scaleExtent([0.15, 4])
+    .on("zoom", ({ transform }) => {
+      currentTransform = transform
+      stage.scale.set(transform.k, transform.k)
+      stage.position.set(transform.x, transform.y)
 
-          // zoom adjusts opacity of labels too
-          const scale = transform.k * opacityScale
-          let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
-          const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
+      const scale = transform.k * opacityScale
+      let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
+      const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
 
-          for (const label of labelsContainer.children) {
-            if (!activeNodes.includes(label)) {
-              label.alpha = scaleOpacity
-            }
-          }
-        }),
-    )
-  }
+      for (const label of labelsContainer.children) {
+        if (!activeNodes.includes(label)) {
+          label.alpha = scaleOpacity
+        }
+      }
+    })
+
+  const canvasSelection = select(app.canvas)
+  canvasSelection.call(zoomBehavior)
+  canvasSelection.call(zoomBehavior.transform, currentTransform)
+}
 
   let stopAnimation = false
   function animate(time: number) {

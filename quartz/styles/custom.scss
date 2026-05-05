@@ -234,4 +234,30 @@ body:has(article[data-slug="index"]) .graph {
   margin: 0 0 2rem;
   border-radius: 28px;
   overflow: hidden;
+  padding: 1rem 0;
+}
+
+/* Make homepage graph full-width */
+body:has(article[data-slug="index"]) .graph {
+  width: 100vw;
+  max-width: 100vw;
+
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+
+  border-radius: 0;
+}
+
+/*
+.graph svg,
+.graph canvas {
+  width: 100% !important;
+}
+  */
+
+/* Center graph canvas */
+body:has(article[data-slug="index"]) .graph canvas,
+body:has(article[data-slug="index"]) .graph svg {
+  margin: 0 auto;
+  display: block;
 }

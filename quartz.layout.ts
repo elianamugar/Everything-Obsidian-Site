@@ -37,17 +37,17 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Graph({
         localGraph: {
           depth: 2,
-          scale: 1.05,
+          scale: 0.6,
           repelForce: 0.7,
-          centerForce: 0.35,
+          centerForce: 0.5,
           linkDistance: 45,
           fontSize: 0.65,
         },
         globalGraph: {
           depth: -1,
-          scale: 0.9,
+          scale: 0,
           repelForce: 0.7,
-          centerForce: 0.35,
+          centerForce: 0.5,
           linkDistance: 45,
           fontSize: 0.65,
           enableRadial: true,
