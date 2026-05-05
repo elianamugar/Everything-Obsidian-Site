@@ -1,0 +1,1 @@
+a dominant international relations theory emphasizing that states operate in an anarchic, competitive, and self-interested global system, where they act primarily to ensure survival and maximize power. It focuses on state-centrism, security dilemmas, and balance-of-power politics over cooperation or morality

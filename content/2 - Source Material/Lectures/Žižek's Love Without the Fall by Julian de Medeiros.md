@@ -1,0 +1,203 @@
+2025-05-11 13:13
+
+Tags: [["love is violent"]] [[Love]] [[Freud]] [[Lacan]] [[Hegel]] [[Socrates]] [[Plato]] [[Žižek]]
+
+Genre: [[Philosophy]]
+
+
+# Reference
+https://www.youtube.com/watch?v=DMuhAlXYCkM&ab_channel=JuliandeMedeiros 
+
+# Notes
+- You can't have love without the fall -Žižek
+	- Writer Cervantes: You can't fight love, you can only run away from it
+	- Lots of ideas from Alain Badiou (French philosopher)
+- Love should be a serious concept!!
+	- Seems hard to talk about love without succumbing to cliché, but it's one of the most serious concepts in philosophy, going back to the idea that philosophy is the love of wisdom
+- The paradoxical experience of falling is your brain has to catch up and register that you've fallen
+	- process by which your perspective of the world radically changes
+	- when someone "sweeps you off your feet" it's a discombobulating experience
+	- somebody who was once a stranger, suddenly isn't a stranger, they're the most intimate person in your life - it's one of the most radical evolutions you can have in your identity
+- Lacan's "the sublime"
+	- the object elevated to the level of the thing
+	- there's relationship which we take something that's seemingly ordinary, then elevate it to a metaphysical presence
+	- stranger becomes elevated to an ideal (this person will make you happy)
+		- "you were fine until you fell in love"
+	- Plato's Symposium: love is a kind of madness
+		- become prone to jealousy, spite, vanity that you wouldn't otherwise have
+		- it's the madness where an ordinary stranger suddenly appears to you as having some metaphysical essence that will unlock something deep inside of you – all of a sudden there's a hole inside of you that needs to be filled
+	- The opposite of love is unrequited love - it's an absolute
+		- when you fall in love, it's an infatuation, a crush
+		- the act of falling in love is the process by which you go from sane to crazy
+			- a person who experiences a whole or lack that has to be filled by somebody else
+		- unsustainable - breaking point is act of confession. can't be in the state of madness forever
+- the fall: you become vulnerable
+	- paradox of love (double-edged sword): capacity to transform you and break you
+		- the transformation that occurs is a sort of breaking – breakage of the person who you thought you were before + stranger --> intimate partner (discombobulating experience)
+- "Do you really love me?"
+	- love can't be proven – love is not a competition, it's a repetition
+	- must reinvent love for yourself
+	- if to fall in love is a sublime madness, then vice-versa is a sustained relationship (desublimation)
+		- in a relationship, the ideal you had of a person becomes desublimated – now you know them for who they are (what love is)
+	- sublimation = infatuation, love = de-sublimation
+		- love = realizing the truth of the other person (the love you share) is not *through* the fall, but what happens *after* the fall
+- "love is blind but lovers are not"
+	- love may render you blind, but when you're in a relationship, you may know exactly who the other person is
+	- love/relationship is a process of de-sublimation – your partner becomes your metaphysical object again.
+- When you fall into love, you are negated, falling into delirium tremense
+	- the negation of negation
+	- love is the process by which the negation is re-negated (the negation of negation)
+- Zizek's critique of the ideology of love
+	- argument: love has been neutered because we don't risk the fall
+		- ironically one of the best things that happens is the best way to neuter love is precisely by emphasizing sexuality
+	- argument: we've become more promiscuous and yet at the exact point we've become more promiscuous (ready to be sexually engaged with other people), it's that exact point we've become more afraid of love
+		- the more liberated we are with sexual expression, the more repressed we are with romantic expression
+		- he's not saying sex ≠ romantic (it's not a binary where love is idealized as being sexless, this is perverse)
+			- sex can be an addiction (ultimate act of self-negation)
+			- love is like a drug, temporarily shatters your core, your sense of self
+				- within the shattering you feel you have found yourself
+				- paradox of negation of negation is at the heart of being an addict
+- "When you suffer from everything, in suffering you enjoy everything" (melancholic's credo)
+	- love is a kind of pain, but it's a beautiful kind of pain
+	- the lover suffers more
+		- when you're not in love, things don't feel as strong, you don't hurt as bad
+	- danger of love/infatuation
+		- it's painful, but it's enjoyable painful
+	- why infatuation stage of a relationship can be a little bit toxic
+		- it's about fundamentally about *you*, not them
+		- having self-discovery about the hole in your heart, suddenly everything has a higher level of intensity
+- First love, especially when unrequited, can be all-consuming and exhausting (21:30)
+	- the de-sublimation that occurs in a long-lasting relationship is gets easier, it's less strenuous, less intoxicating, therefore it is deeper (not consuming you)
+		- love is a candle that you burn on both ends
+- Hugo von Hofmannsthal: "he who suffers from everything is the person who enjoys everything"
+	- love presents itself to you as a kind of suffering, as a kind of madness, as a loss of self and reason (infatuation stage)
+	- if this is what we fear and the thing that gives us meaning that we love, this is precisely what we lose when we only have encounters for sex
+	- zizek's argument: the more liberal we've become about sexual exchange, the more repressed we are about romantic exchange
+		- it's almost embarrassing to tell someone "i want you for more than just your body"
+		- it means you're ceding some level control
+		- it's not just about your enjoyment
+			- current society: no matter what you do, make sure that you have fun. no matter what you do, make sure you put yourself first
+			- increasing individualization of life makes it fundamentally more difficult to allow ourselves to experience <u>love as a fall</u>
+			- if you're falling in love, you're falling into the other (the abyss)
+			- the more individualized society becomes, the more dangerous it appears to us to fall in love
+		- sexual encounters *fit* within your life, it doesn't *disrupt* you – this is what people fear: having a sexual encounter, then <u>falling in love</u>
+			- love can shatter your enjoyment
+- Zizek is not against dating culture
+	- anytime you engage with someone else, there's a fantasy frame
+		- e.g. when you talk to your teacher, you know they are a real human being underneath, but being a real human being means doing gross things like going to the bathroom, sweating, physically biological things
+		- to sustain life, we have to imbue life with fantasy – the idea with *authentic* connection with others *without fantasy* is a kind of fantasy in itself
+			- you have to treat them almost like they're not a real person
+- paradox of sex: everything is about sex, except sex, which is about something else
+	- if everything is about sex, then what is sex about?
+	- sex to its most mechanical, biological reality is just two people rubbing up against each other, panting, sweating, it's not romantic at all
+	- if you think about this while having sex, then you can no longer have sex, the spontaneity of it disappears
+	- when you're having sex in the real world biologically, materially, you have to infuse it with fantasy – there always has to be a level of fantasy to let you continue interacting on the level of biological reality
+	- sexuality is the fantasy frame for which we access reality
+- You can't access reality without fantasy (Zizek taken from Lacan)
+	- as soon as you boil something down to its hardcore truth, it's reality, everything disintegrates (you can't live in a world of pure reality)
+		- you become *too* self-aware that it paralyzes you
+- Zizek: the more promiscuous we've become, the harder it is to actually fall in love
+	- if love is that which disrupts us, the idea of promiscuity, of choosing your partner, of finding the ideal partner online, it becomes something that's optimized and integrated into your life
+	- we risk commodifyin the romantic or sexual encounter
+		- if it's simply another thing that can be optimized, then you risk losing the metaphysical fall into love
+- argument for "there is no type"
+	- when you have a type, it's actually a way of keeping love away
+		- "Here are the specific categories and attributes that I demand from a partner. if they have these attributes, then I will consider falling in love with them."
+		- not how love works
+	- when you fall in love, you immediately realize the person you've fallen in love with *now* becomes your type
+	- the process of being in a relationship is to realize that the person you are in love with is a type unto themselves
+		- they are their own type
+		- retroactive contingency of a relationship or love: they are the person who appears they were made just for you
+			- of course it's a lie, nobody was made on this earth *just for you* 
+			- even though I didn't want to fall in love or expect to fall in love, once I do, it feels like everything that happened to me in my life was leading up to this moment (retroactive effect of love – Hegel: contingency of necessity)
+	- Hegelian dialectal point: necessity can only every emerge through the retroactive appearance of contingency
+		- it's not the accidental vs. the fated; fate is always the embrace of the accidental
+			- central insight when it comes to why Sisyphus is happy
+				- he's happy not because he's changed his fate but because he's embraced his fate
+				- through the subjetcive acceptance of his fate, he's made it his own
+				- he's become the master of his fate
+- Badiou: falling in love is an Event (truth process)
+	- Event - something that happens to you externally and yet appears to contain the truth about yourself
+		- Christ on the cross is a truth event/process
+			- someone who appears to come from the outside is precisely the one who unlocks the truth; the core of the Christian faith is now within the community of the faithful themselves
+	- Hegel: love is a metaphor for philosophy itself
+		- the process of love (negation of negation) is actually a metaphor for the entirety of philosophy, the unfolding of the human spirit itself
+		- what happens when Christ dies on the cross, it's not the body of Christ that dies, it's the god of the beyond that dies
+			- in the crucifixion, we don't have the death of Christ, we have the death of the idea of a transcendental deity
+			- the whole goal of religion is to ascend to the heavens
+			- when God "sends Christ," he de-sublimates himself on behalf of people
+			- crucial moment of crucifixion: when Christ says "Father, why have you forsaken me"
+				- moment when God stops believing in himself for a moment
+		- The fall into love is the same thing as God falling in love, de-sublimating through the crucifixion on behalf of the human community into the Holy Spirit, the Trinity
+		- Two people meet and you de-sublimate or empty yourself out on behalf of the other into this stranger, and through this process, there's a third thing that emerges: love
+			- spiritual awakening of two people that have suddenly become one
+			- a dialectical process of the negation of negation (Hegel relates Christ on the cross to falling in love)
+	- platonic metaphysics -> Hegelian post-metaphysics
+		- if the platonic metaphysical framework is the world the allegory of the cave (world of truth outside and the world of appearance within), we have to seek the world of truth outside the world of the cave
+		- then after Hegel with the post-metaphysical stance, now it's no longer about transcending to a higher state of being, it's actually about de-sublimating
+			- sublimation and de-sublimation, rather than being opposites, become part and partial of the same unfolding, they're two sides of the same coin ([chiastic process](https://en.wikipedia.org/wiki/File:Chiastic.svg) : AB X BA)
+				- e.g. of chiastic structure - it's not about what your country can do for you, it's what you can do for your country
+- Hegel's argument: the metaphysical argument apropos Plato isn't that it's a one-direction movement (A->B, from the cave to the world outside the cave); it's precisely the fall itself that creates the essence (de-sublimation is the core and the truth of the sublimation process)
+	- sublimation is no longer how do I go from being down here towards up here, it's not arising into the transcendental
+	- instead, the transcendental exists precisely within the fall itself
+- Zizek's ontological argument appropriated from Hegel: essence doesn't lie beyond appearance, but essence only emerges within the fall into appearance itself
+	- love is a truth process for you, the person who you are, doesn't emerge when you aspire to a higher form of being in love, it's when you fall into love
+	- the whole point of metaphysics and philosophy is no longer transcendence, instead transcendence occurs under its supposed opposite
+		- it is the fall itself that generates the thing through which you rise
+- The entire point of Hegelian philosophy is to answer a problem that Kant had already proposed (Kantian Copernican turn)
+	- Kantian-Copernican turn: if the traditional metaphysical divide had always been about the world of essence outside and the world of appearance on earth, Kant says "okay, but what are the conditions for actually transcending"
+		- what are the transcendental conditions?
+		- Kant's Critique of Pure Reason is a paradoxical formulation
+			- if the "pure" (essence that lies beyond the transcendental) is the opposite of reason (how we think the world and how things appear to us), then Kant says "can there be such a thing as pure reason?" (cartesian)
+			- if reason is bound to the world of appearances, then purity (the ideal) would have to be a sublimation of ideals to a higher plane
+			- when Kant writes Critique of Pure Reason, he's investigating the conditions through which the ideal could be reached
+				- conditions have to be reason, after all you are because you think, you think the world -Kant
+				- the very idea of essence and truth is a concept
+				- if transcendence is supposed to be that which goes beyond mortal life, but if transcendence has to be conceptualized, then can it really be pure? isn't it already vulgarized through the fall into reason
+	- the classic philosophical proposition had been about the world of objects, the world of appearance, the world in the cave, and the world outside the cave (world of essence and truth, the ideal form)
+	- the notion until Kant: objects in the world appear to use and thereby are a lesser deformed version of the ideal
+		- why Plato said art was a copy of a copy
+			- if objects in the world are copies of the divine, the absolute, then art by its very definition is a copy of what was already a copy
+			- instead of being into art, we should be looking for transcendence, and art will lead us away
+			- Hegelian argument is almost exact opposite: you don't go beyond the veil of appearance to the world of truth, you have to fall into the negation of negation, which is what art is
+				- if the world is a copy of essence, then art is precisely the process by which you de-sublimate that process (art unlocks the truth within something, which unlocks the truth within yourself)
+- Hegel: Kant, the ultimate disruptor of the metaphysical divide, somehow fell in love with the idea of essence
+	- classic Kantian problem: if an object is an object in the world and it's supposed to be a copy/reflection of divine essence, then how do we penetrate the object and find the core, the truth, the essence contained within the object? how do we go beyond the object?
+		- Das ding an zich – the thing-in-itself
+	- Hegel makes fun of Kant b/c Kant, who had unlocked something so important he didn't even realize it, was still in love with the idea of the ideal or the divine
+		- you can transcend the world of appearance and achieve the world of essence
+	- conclusion: what if essence isn't beyond the world of appearance, what if essence isn't trapped within objects, what if essence emerges only in the fall? what if the de-sublimation into the world of appearance is exactly how essence is made manifest?
+		- Hegelian argument apropos the cross: what dies on the cross is not the body of Christ, what dies on the cross is the idea of the transcendental deity
+		- Kant argument apropos the cross: what dies isn't the body of things/objects in the world, what dies is precisely the idea of objects of the beyond (das ding an zich)
+			- Kant doesn't realize is what he perceives as a barrier ("reason" being the paradoxical barrier to the unlocking of transcendental truth) is itself the door and that essence emerges only in the fall into appearance itself
+			- central lesson of Hegelian speculative idealism – how you go from transcendental Kantian idealism (about ascending into the ideal) towards Hegelian speculative idealism which is about the fall into the ideal
+- Zizek + Badiou – love is always about the fall into love
+	- metaphor for an argument dear to Zizek: it is about Hegelian speculative idealism apropos Kantian transcendental idealism
+- Zizek is using something universal and relatable about the human experience (falling in love) and relating it to a metaphysical proposition, which is that essence doesn't lie beyond appearance, essence lies only with an appearance itself
+	- when you fall in love, you fall into the other and thereby unlock your own truth
+- Badiou – if love is a truth process/event, then this means not only through something seemingly external you have unlocked the truth about you, it also means the truth doesn't exist outside, the truth is an external, the truth emerges precisely when the external unlocks the internal
+- Zizek is Lacanian, not Badiou
+	- Inner split (loving the lack in the other -Lacan) is constitutive (comes from within) -Zizek
+	- Inner split is external, it comes from without -Badiou
+- Socrates: the classic practice of philosophy (to love wisdom)
+	- to really be concerned with the love of wisdom is to try to be as dead as possible in your own life
+	- when you're concerned on the level of the idea of the concept, that you're so into it that suddenly you are dead to the world just standing there (mind vs. world)
+	- when you're thinking, you are no longer fully present
+- Lacan: takes the Cartesian cognito, the self-transparent subject (Descartes' I think therefore I am), and says it's actually "I think where I am not and I am not where I think"
+	- close to Socrates: when you're thinking, you're already not there (e.g. daydreaming)
+- Philosophy through Plato through Socrates: paradoxical process of being physically there and mentally not there
+	- problem: relegated your body to just being and your mind is unlocked/thinking is at the heart of philosophy itself
+	- to contemplate, to exist, to think is precisely about conceptualizing
+	- limited restricted view, not a normative view
+	- links to the idea of "death drive" – key Lacanian psychoanalytic concept which he takes from Freud
+		- similar to Socrates' idea about the love of wisdom: the death drive isn't that you are moving towards death, it's the peculiar paradox (dialectic) by which you feel most alive at the exact moment that you are doing something that appears to defy your life
+			- e.g. when you hike up a mountain, why do you feel so connected to the world? you've made yourself feel really small but you also feel really big inside
+			- e.g. French expression for orgasm ("petit mort") - little death
+				- you've lost control of your body, you don't feel like a person, you somehow feel more alive than ever before
+		- finding yourself within what appears to be an absolute negation (de-sublimation) is at the heart of the death drive
+			- Freud + Lacan: repetition compulsion (Wiederholungszwang)
+				- the more you repeat something, the more alive you feel
+- we access essence precisely within the process of negation and de-sublimation on behalf of our own subjectivity that we become subject to something and we feel that we are subject
+	- Lacan: to be a subject/person is precisely to be subject to
+	- de-subjectivization is precisely the manner in which the subject unfolds
+		- back to metaphysical argument: essence isn't the opposite of appearance, that essence emerges within the fall into appearance itself

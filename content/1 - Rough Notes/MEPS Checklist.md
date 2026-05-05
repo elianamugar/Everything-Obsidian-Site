@@ -1,0 +1,19 @@
+- [ ] DRINK LOTS OF WATER IN THE MORNING AND **DON'T PEE**
+	- [ ] it'll be first thing in the morning
+- [ ] Valid ID
+- [ ] Social Security Card
+- [ ] Dress code
+	- [ ] No hats, beanies, etc.
+	- [ ] No plain white shirts/see through topss
+	- [ ] Socks must be worn
+	- [ ] No leggings or sweatpants
+- [ ] Physical + BG investigation
+	- [ ] Review all medical forms prior to processing
+	- [ ] Eye Exam - color vision/depth perception
+	- [ ] Hearing - audiometer booth
+	- [ ] Lab work - blood/urinalysis (DON'T PEE)
+	- [ ] Urine sample (first thing in the morning)
+	- [ ] Motor skills - flexibility/speech
+	- [ ] One on one interview/physical with doctor to validate medical paperwork
+	- [ ] Fingerprints + start of FBI BG check
+- [ ] [Duck walk]([https://youtu.be/I0AxJhE0tGk](https://youtu.be/I0AxJhE0tGk "Share link")

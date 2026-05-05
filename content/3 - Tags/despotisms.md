@@ -1,0 +1,1 @@
+a form of government where a single ruler holds absolute, unchecked power, often characterized by fear, oppression, and the elimination of civic freedoms

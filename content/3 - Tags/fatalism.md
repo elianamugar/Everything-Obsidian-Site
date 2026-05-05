@@ -1,0 +1,1 @@
+the philosophical belief that all events are predetermined by fate, destiny, or an omniscient force, rendering humans powerless to change the future

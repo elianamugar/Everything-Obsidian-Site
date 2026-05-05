@@ -1,0 +1,1 @@
+ body of law governing the conduct of parties during an armed conflict. It focuses on limiting suffering, protecting non-combatants, and restricting methods of warfare, applying equally to all sides regardless of the conflict’s legality

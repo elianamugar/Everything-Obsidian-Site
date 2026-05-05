@@ -1,0 +1,5 @@
+[[French Revolution]]
+[[Islamic Revolution]]
+[[Glorious Revolution]]
+[[American Revolution]]
+[[proletarian revolution]]

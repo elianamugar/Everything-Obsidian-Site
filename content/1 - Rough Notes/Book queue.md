@@ -1,0 +1,14 @@
+- [x] Intermezzo
+- [x] Frankenstein
+- [x] Hamnet
+- [ ] A Visit From the Goon Squad
+- [ ] Demon Copperhead
+- [ ] The Dispossessed
+- [x] The Portrait of an Artist of a Young Man
+- [ ] To Kill A Mockingbird
+- [ ] Tony Morrison
+- [ ] Count of Monte Cristo
+- [ ] Butcher’s Crossing
+- [x] Augustus
+- [x] GOT
+- [x] Mistborns

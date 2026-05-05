@@ -1,0 +1,1 @@
+an extreme, belligerent form of nationalism characterized by aggressive, warlike foreign policy and excessive patriotism

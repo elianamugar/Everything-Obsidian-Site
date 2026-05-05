@@ -1,0 +1,1 @@
+the Roman goddess of luck, chance, and fate, often regarded as the personification of life's capricious nature. Known as the equivalent to the Greek goddess Tyche, she represented both good and bad fortune, capable of bestowing blessings or causing disaster without prejudice
