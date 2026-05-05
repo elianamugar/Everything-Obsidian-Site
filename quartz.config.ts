@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "elianamugar.github.io/Everything-Obsidian-Site",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "1 - Rough Notes", "5 - Template", "9 - Video Ideas"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
