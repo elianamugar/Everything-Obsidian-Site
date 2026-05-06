@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[Philosophy]] [[Marxism]] [[Brecht]] [[Kierkegaard]] [[Individuality]]
+Tags: [[Philosophy]] [[Marxism]] [[Brecht]] [[Kierkegaard]] [[Individuality]] [[Capitalism]]
 
 # The second-generation's dilemma - the burden of lineage and posterity
 

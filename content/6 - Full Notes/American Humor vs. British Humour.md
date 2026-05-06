@@ -2,7 +2,7 @@
 
 Status: #child #quote 
 
-Tags: [[UK]] [[America]] [[Comedy]] [[England]]
+Tags: [[UK]] [[America]] [[Comedy]] [[England]] [[Linguistics]]
 
 # American Humor vs. British Humour
 I prefer British humor to American humor, but why is that?

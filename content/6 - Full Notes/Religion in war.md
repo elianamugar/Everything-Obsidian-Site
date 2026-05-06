@@ -2,7 +2,7 @@
 
 Status: #adult 
 
-Tags: [[Religion]] [[War]] [[Persia]] [[Egypt]]
+Tags: [[Religion]] [[War]] [[Persia]] [[Egypt]] [[Greece]] [[Roman]]
 
 # Religion in war
 

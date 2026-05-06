@@ -94,9 +94,17 @@
   object-fit: cover;
 }
 
+/* LIGHT MODE (default) */
 .launch-overlay {
   position: absolute;
   inset: 0;
+  background:
+    linear-gradient(to bottom, rgba(0,0,0,0.02), rgba(0,0,0,0.25)),
+    linear-gradient(to right, rgba(0,0,0,0.25), rgba(0,0,0,0.02));
+}
+
+/* DARK MODE */
+[saved-theme="dark"] .launch-overlay {
   background:
     linear-gradient(to bottom, rgba(0,0,0,0.05), rgba(0,0,0,0.72)),
     linear-gradient(to right, rgba(0,0,0,0.62), rgba(0,0,0,0.08));
@@ -112,15 +120,25 @@
 .launch-hero-text p {
   margin: 0 0 0.35rem;
   text-transform: uppercase;
-  letter-spacing: 0.14em;
+  letter-spacing: 0.12em;
   font-size: 0.75rem;
-  opacity: 0.82;
+  opacity: 0.9;
 }
 
-.launch-hero-text h1 {
+.launch-hero-text p {
+  opacity: 0.9;
+  letter-spacing: 0.12em;
+}
+
+[saved-theme="light"] .launch-hero-text p {
+  color: rgba(255,255,255,0.85);
+}
+
+.launch-title {
   margin: 0;
-  font-size: clamp(3rem, 8vw, 6rem);
-  letter-spacing: -0.07em;
+  font-size: clamp(4rem, 10vw, 8rem);
+  font-weight: 800;
+  letter-spacing: -0.05em;
 }
 
 .launch-hero-text span {

@@ -2,7 +2,7 @@
 
 Status: #adult #analytical-paper 
 
-Tags: [[Ethics]] [[Environment]] [[Utilitarianism]]
+Tags: [[Ethics]] [[Environment]] [[Utilitarianism]] [[UK]]
 
 # When the smog clears
 

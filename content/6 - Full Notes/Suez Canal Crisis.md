@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[Suez Canal]] [[Egypt]] [[UK]] [[France]] [[Nasser]] [[Israel]] [[Post-WWII]] 
+Tags: [[Suez Canal]] [[Egypt]] [[UK]] [[France]] [[Nasser]] [[Israel]] [[Post-WWII]] [[Algeria]]
 
 # Suez Canal Crisis
 

@@ -25,7 +25,7 @@ Here are some moments in *Pride and Prejudice* that demonstrate these effects:
 		>*"Impossible, Mr. Bennet, impossible, when I am not acquainted with him myself: how can you be so teasing?"*
 		>*"What can be the meaning of that emphatic exclamation?"
 
-		Mr. Bennet things that Mr. Bingley will like Lizzy's hat. Due to lack of knowledge of the visit, Mrs. Bennet is confused, then deems it impossible and ridiculous. Then, Mrs. Bennet becomes bored. It wasn't until Mr. Bennet confessed the truth that all the daughters showed surprise. Intended violation of the maxim of quantity corresponds with Mr. Bennet's eccentric personality – full of contradictions and conflicts. He likes to make impromptu comic gestures and remarks and use bitter sarcasm. He's a mixture of quick parts, sarcastic humor, reserve, and caprice.
+		Mr. Bennet thinks that Mr. Bingley will like Lizzy's hat. Due to lack of knowledge of the visit, Mrs. Bennet is confused, then deems it impossible and ridiculous. Then, Mrs. Bennet becomes bored. It wasn't until Mr. Bennet confessed the truth that all the daughters showed surprise. Intended violation of the maxim of quantity corresponds with Mr. Bennet's eccentric personality – full of contradictions and conflicts. He likes to make impromptu comic gestures and remarks and use bitter sarcasm. He's a mixture of quick parts, sarcastic humor, reserve, and caprice.
 
 2. The violation of the maxim of quality – speakers should maintain truth and adequate evidence in their utterance.
 	- Vol 1, Ch. 5: When Darcy and Elizabeth met each other for the first time, Bingley was attracted by Jane's beauty. Bingley gives a high evaluation of Jane: 
@@ -46,7 +46,7 @@ Here are some moments in *Pride and Prejudice* that demonstrate these effects:
 
 	Mr. Collins' character is quite consistent throughout the book, causing many of the girls to laugh at his over-explanations without ever getting to the root of the topic. In this case, he explains three reasons for his proposal to Elizabeth, none of which are the immediate cause of his proposal, which violates the maxim.
 
-And though I mark the point of maxim violations in the polite society era (it's so easy, given the context of the etiquettes they follow), it has snaked its way into modern British comedies! Take, for instance, Fleabag (2016). 
+And though I mark the point of maxim violations in the polite society era (it's so easy, given the context of the etiquettes they follow), it has snaked its way into modern British comedies! Take, for instance, [[Fleabag (2016) by Phoebe Waller-Bridge]]. 
 
 1. Violation of maxim of quantity
 	- Informal conversation between Fleabag and Cab Driver where Fleabag copes with a traumatic experience through the filter of humor.
@@ -75,12 +75,12 @@ In connecting *Pride and Prejudice* (1813) and *Fleabag* (2016), this demonstrat
 
 
 ## References
-[[Pride and Prejudice (1813) by Jane Austen]]
-https://www.sas.upenn.edu/~haroldfs/dravling/grice.html
-https://www.usingenglish.com/articles/grices-conversational-maxims.html#:~:text=In%201975%2C%20British%20philosopher%20Paul,communication%20happens%20in%20everyday%20interactions.
-https://library.fiveable.me/introduction-semantics-pragmatics/unit-7/flouting-violating-maxims/study-guide/HUeJ9kFB9QEJ16Vb
-https://www.lancaster.ac.uk/fass/projects/stylistics/topic12/14cp1.htm
-https://www.historic-uk.com/CultureUK/British-Etiquette/
-[[English Etiquette]]
-https://francis-press.com/uploads/papers/7KbXvK6z4fUjCsFMcrkDQ73wc0BiNLyw8z277JRS.pdf
-https://www.academia.edu/59911145/We_are_bad_feminists_A_Linguistic_and_Multimodal_Analysis_of_Phoebe_Waller_Bridges_Fleabag
+- [[Pride and Prejudice (1813) by Jane Austen]]
+- https://www.sas.upenn.edu/~haroldfs/dravling/grice.html
+- https://www.usingenglish.com/articles/grices-conversational-maxims.html#:~:text=In%201975%2C%20British%20philosopher%20Paul,communication%20happens%20in%20everyday%20interactions.
+- https://library.fiveable.me/introduction-semantics-pragmatics/unit-7/flouting-violating-maxims/study-guide/HUeJ9kFB9QEJ16Vb
+- https://www.lancaster.ac.uk/fass/projects/stylistics/topic12/14cp1.htm
+- https://www.historic-uk.com/CultureUK/British-Etiquette/
+- [[English Etiquette]]
+- https://francis-press.com/uploads/papers/7KbXvK6z4fUjCsFMcrkDQ73wc0BiNLyw8z277JRS.pdf
+- https://www.academia.edu/59911145/We_are_bad_feminists_A_Linguistic_and_Multimodal_Analysis_of_Phoebe_Waller_Bridges_Fleabag

@@ -164,6 +164,18 @@ Rating:
 - "I think you're mean," Sally repeated, not satisfied.
   "Yes, and you're my equal," Clara said, looking at her daughter.
 - But there were the vast, endless plains. They had almost swallowed him once. (July)
+- "That's progress," she said. "Rome wasn't built in a day." -Clara
+- "I guess I oughtn't chase her," he said finally. "I guess I ought to let her be."
+  "It doesn't do to sacrifice for people unless they want you to," Clara said. "It's just a waste."
+- "Deets, have you ever spent much time wanting what you know you can't have?" he asked, figuring to get the conversation off to a brisk start.
+  "Spect I've had a good life," Deets said. "Captain paid me a fair wage. Ain't been sick but twice, and one time was when I got shot over by the river."
+  "That ain't an answer to the question I asked," Augustus said.
+  "Wantin' takes too much time," Deets said, "I'd rather be working."
+- Lots of curiosity, but more fear. It was strange life… (Lorena)
+- “Come ride to town with me,” Augustus said to Call. “This place is quiet as a church on Monday. I’ll buy you a meal and we can sit and talk philosophy.”
+“No, I’ll stay,” Call said. “I don’t know a philosophy.”
+“Your philosophy is to worry too much,” Augustus said.
+- Better if something happens and kills us both, she thought. At least I wouldn’t have to be alone. 
 
 # Thoughts
 - _Uva uvam vivendo varia fit_ is the Latin phrase Gus paints on the sign. He says he doesn't remember what it means (showing he's one of he more educated cowboys) since he learned the Latin in school. It literally translates to "the grape becomes different as the grape lives." But apparently, it's a misquote of the classical Latin proverb *Uva uvam videndo varia fit* (the second *v* in *vivendo* should be a *d*). It represents how people (or grapes) change and are influenced by the company they keep, acting as a metaphor for the friendships and relationships in the story.

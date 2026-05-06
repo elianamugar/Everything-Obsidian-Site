@@ -9,11 +9,11 @@ Genre: [[Philosophy]] [[Psychology]]
 
 
 # References
-
+- [[Civilization and Its Discontents by Sigmund Freud]]
 
 # Notes
 Freud’s background
-- Died before WWII, Austrian
+- Died before [[WWII]], Austrian
 - Examines impulses of human species toward life and death
 - Wrote book between world wars
 Freud’s Book, _Civilization and Its Discontents_ - Background
@@ -88,9 +88,9 @@ Freudian Slip
 	- Freud believes outer world reflects our inner life
 General Review
 - Question of human nature
-- Mill: there is a human nature, selfish hedonism, must overcome this
-- Marx: no human nature, only adaptation to social/political/economic conditions
-- Kierkegaard: definitive human nature, individual creator, level of passion/faith
+- [[John Stuart Mill]]: there is a human nature, selfish hedonism, must overcome this
+- [[Marx]]: no human nature, only adaptation to social/political/economic conditions
+- [[Kierkegaard]]: definitive human nature, individual creator, level of passion/faith
 - Freud:
 
 # Thoughts

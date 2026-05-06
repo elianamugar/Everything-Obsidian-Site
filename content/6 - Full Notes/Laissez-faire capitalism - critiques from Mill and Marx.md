@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[Capitalism]] [[Marx]] [[John Stuart Mill]] [[Adam Smith]] [[laissez-faire]]
+Tags: [[Capitalism]] [[Marx]] [[John Stuart Mill]] [[Adam Smith]] [[laissez-faire]] [[Utilitarianism]]
 
 # Laissez-faire capitalism - critiques from Mill and Marx
 

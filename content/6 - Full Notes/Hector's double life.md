@@ -2,7 +2,7 @@
 
 Status: #adult 
 
-Tags: [[Homer]] [[Humanity]]
+Tags: [[Homer]] [[Humanity]] [[Trojan War]]
 
 # Hector's double life
 ​

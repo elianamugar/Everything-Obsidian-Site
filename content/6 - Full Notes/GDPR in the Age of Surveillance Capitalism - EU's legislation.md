@@ -3,7 +3,7 @@
 # GDPR in the Age of Surveillance Capitalism - EU's legislation
 2026-03-17 17:51
 
-Tags: [[Europe]] [[Capitalism]] [[Privacy]] [[Surveillance Capitalism]]
+Tags: [[Europe]] [[Capitalism]] [[Privacy]] [[Surveillance Capitalism]] [[EU]] [[security]] [[Zuboff]] [[GDPR]]
 
 Genre:
 
@@ -12,6 +12,7 @@ Genre:
 - https://gdpr-info.eu
 - https://ezproxy.bu.edu/login?qurl=https%3A%2F%2Fwww.proquest.com%2Fscholarly-journals%2Fgeneral-data-protection-regulation-age%2Fdocview%2F2242641109%2Fse-2%3Faccountid%3D9676
 - https://link.springer.com/article/10.1007/s10551-019-04239-z
+- [[The Age of Surveillance Capitalism (2018) by Shoshana Zuboff]]
 
 # Notes
 - Looks at EU’s GDPR as the gold standard of cyber-laws

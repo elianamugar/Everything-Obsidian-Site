@@ -2,7 +2,7 @@
 
 Status: #adult 
 
-Tags: [[The Contras]] [[Iran]] [[Carter]] [[Lebanon]] [[America]] [[Regan]] [[Carter]] [[Iran-Iraq war]] [[Nicaragua]] [[Sandinista]] [[Geopolitics]] [[History]] [[Gorbachev]] 
+Tags: [[The Contras]] [[Iran]] [[Carter]] [[Lebanon]] [[America]] [[Regan]] [[Carter]] [[Iran-Iraq war]] [[Nicaragua]] [[Sandinista]] [[Geopolitics]] [[History]] [[Gorbachev]] [[USSR]]
 
 # Iran-Contra Affair
 
@@ -16,7 +16,7 @@ During Reagan’s campaign run for presidency in 1980, his administration got in
 
 ​In 1985, with the US secretly storing money in the secret Swiss bank from the capital gained from the secret US-Iran weapons deals, the NSC realized that the US could use this secret money to fund the Contras rebels by flying them into Nicaragua. This was very illegal since Congress officially passed a law to not aid the Contras rebels. In October 1986, the Sandinista government shot down an airplane flying over Nicaragua illegally, revealing that a CIA pilot was part of providing weapons to Contras rebels. This exposed the big scandal of Reagan and the whole Iran-Contra affair exploded within the US public.
 
-​In 1987, Gorbachev reached out to Reagan (again) to propose a reduction treaty of missiles. This was quite a radical missile treaty--both sides would cut all medium and intermediate range nuclear missiles. After Reagan’s history of rejecting Gorbachev’s proposals of missile reduction treaties, Reagan finally agrees because 1) SDI wasn’t actually feasible (it would just lead to an arms race between the US and USSR), so Reagan didn’t have to keep defending it and 2) he needed to save his presidency. As a result, at the end of 1987, Reagan and Gorbachev signed the [[Intermediate Nuclear Force Treaty]] to get rid of all medium and intermediate range nuclear missions which had the potential of hitting Europe at the Washington Summit. The signing signified that Gorbachev and Reagan were open to peace, leading towards the end of the Cold War and establishing that US-USSR relations were growing.
+​In 1987, Gorbachev reached out to Reagan (again) to propose a reduction treaty of missiles. This was quite a radical missile treaty--both sides would cut all medium and intermediate range nuclear missiles. After Reagan’s history of rejecting Gorbachev’s proposals of missile reduction treaties, Reagan finally agrees because 1) SDI wasn’t actually feasible (it would just lead to an arms race between the US and USSR), so Reagan didn’t have to keep defending it and 2) he needed to save his presidency. As a result, at the end of 1987, Reagan and Gorbachev signed the [[Intermediate Nuclear Force Treaty]] to get rid of all medium and intermediate range nuclear missions which had the potential of hitting Europe at the Washington Summit. The signing signified that Gorbachev and Reagan were open to peace, leading towards the end of the [[Cold War]] and establishing that US-USSR relations were growing.
 
 ## References
 - 

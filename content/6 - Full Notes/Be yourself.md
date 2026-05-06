@@ -19,4 +19,4 @@ And Alyosha reassures him:
 Though it's tempting to want to fit in, to find an identity, the best thing one can do for themselves is to not follow the masses.
 
 ## References
-[[The Brothers Karamazov (1880) by Fyodor Dostoevsky]] 
+- [[The Brothers Karamazov (1880) by Fyodor Dostoevsky]] 

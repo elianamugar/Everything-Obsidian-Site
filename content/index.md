@@ -8,7 +8,7 @@ publish: true
   <div class="launch-overlay"></div>
   <div class="launch-hero-text">
     <p>emug's everything obsidian site</p>
-    <h1>launchpad</h1>
+    <div class="launch-title">launchpad</div>
     <span>Learning is a lifelong process. -Peter Drucker</span>
   </div>
 </div>
