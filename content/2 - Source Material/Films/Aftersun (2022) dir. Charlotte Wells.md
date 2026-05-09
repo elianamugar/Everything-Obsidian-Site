@@ -1,6 +1,7 @@
 ---
 banner: "![[Aftersun 2.png]]"
 banner_y: 0.084
+created: 2025-06-19
 ---
 # Aftersun (2022) dir. Charlotte Wells
 2025-06-19 17:32

@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 23:13
 
 Tags: [[Short Stories]] [[Anthology]] [[1950s]] [[America]] [[20th Century Literature]]

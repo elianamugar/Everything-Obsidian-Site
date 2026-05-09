@@ -1,6 +1,7 @@
 ---
 banner: "![[Solaris 1.png]]"
 banner_y: 0.58
+created: 2025-07-14
 ---
 # Solaris (1972) dir. Andrei Tarkovsky
 2025-07-14 21:02

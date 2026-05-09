@@ -1,3 +1,7 @@
+---
+created: 2026-04-03
+---
+
 
 
 # Nuremberg (2025) dir. James Vanderbilt

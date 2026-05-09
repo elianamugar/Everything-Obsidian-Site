@@ -1,3 +1,7 @@
+---
+created: 2026-03-28
+---
+
 
 
 # Bright Star (2009) dir. Jane Campion

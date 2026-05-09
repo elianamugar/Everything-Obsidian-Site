@@ -1,6 +1,7 @@
 ---
 banner: "![[Beau Travail 1.png]]"
 banner_y: 0.044
+created: 2025-07-09
 ---
 # Beau Travail (1999) dir. Claire Denis
 2025-07-09 12:37

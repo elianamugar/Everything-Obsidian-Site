@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 23:30
 
 Tags: [[1940s]] [[Japan]] [[20th Century Literature]] [[Book]] [[Asia]] [[Consciousness]] [[Happiness]] [[Society]] [[Humanity]] [[Sociology]] [[Trust]] [[Friendship]] [[Book]]

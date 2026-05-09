@@ -1,6 +1,7 @@
 ---
 banner: "![[Demolition 1.png]]"
 banner_y: 0.568
+created: 2025-09-30
 ---
 # Demolition (2015) dir. Jean-Marc Vallée
 2025-09-30 21:25

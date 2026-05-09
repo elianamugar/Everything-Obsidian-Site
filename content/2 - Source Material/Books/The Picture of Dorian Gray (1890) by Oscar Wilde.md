@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 23:50
 
 Tags: [[1890s]] [[19th Century Literature]] [[Classic]] [[Ireland]] [[Beauty]] [[Vanity]] [[Oscar Wilde]] [[Victorian]]

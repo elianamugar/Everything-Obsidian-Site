@@ -1,6 +1,7 @@
 ---
 banner: "![[Come and See 1.png]]"
 banner_y: 0.574
+created: 2025-07-15
 ---
 # Come and See (1985) dir. Elem Klimov
 2025-07-15 21:52

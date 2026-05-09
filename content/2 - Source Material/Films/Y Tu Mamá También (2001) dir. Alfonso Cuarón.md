@@ -1,6 +1,7 @@
 ---
 banner: "![[YTMT 6.png]]"
 banner_y: 1
+created: 2025-08-11
 ---
 # Y Tu Mamá También (2001) dir. Alfonso Cuarón
 2025-08-11 01:33

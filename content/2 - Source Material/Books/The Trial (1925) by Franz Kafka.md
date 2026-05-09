@@ -1,3 +1,7 @@
+---
+created: 2025-05-17
+---
+
 2025-05-17 00:17
 
 Tags: [[1920s]] [[20th Century Literature]] [[Germany]] [[Classic]] [[Absurdism]] [[Existentialism]] [[Book]]

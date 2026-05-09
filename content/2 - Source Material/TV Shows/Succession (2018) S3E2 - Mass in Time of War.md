@@ -1,3 +1,7 @@
+---
+created: 2026-03-30
+---
+
 
 
 # Succession (2018) S3E2 - Mass in Time of War

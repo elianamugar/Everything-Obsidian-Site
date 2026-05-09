@@ -1,6 +1,7 @@
 ---
 banner: "![[Drive 2.png]]"
 banner_y: 0.412
+created: 2025-09-06
 ---
 # Drive (2011) dir. Nicolas Winding Refn
 2025-09-06 19:39

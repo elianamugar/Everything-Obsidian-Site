@@ -1,6 +1,7 @@
 ---
 banner: "![[Ginger Snaps 1.png]]"
 banner_y: 0.006
+created: 2025-10-01
 ---
 # Ginger Snaps (2000) dir. John Fawcett
 2025-10-01 15:41

@@ -1,3 +1,7 @@
+---
+created: 2026-04-30
+---
+
 
 
 # Beef (2023) S2E8 - It Will Stay This Way and You Will Obey

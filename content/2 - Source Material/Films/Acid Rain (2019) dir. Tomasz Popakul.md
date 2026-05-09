@@ -1,5 +1,6 @@
 ---
 banner: "![[Acid Rain 1.png]]"
+created: 2025-08-29
 ---
 # Acid Rain (2019) dir. Tomasz Popakul
 2025-08-29 19:07

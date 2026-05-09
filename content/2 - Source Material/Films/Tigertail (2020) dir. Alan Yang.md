@@ -2,6 +2,7 @@
 banner: "![[Tigertail 1.png]]"
 banner_x: 0.52489
 banner_y: 0.69
+created: 2025-07-03
 ---
 # Tigertail (2020) dir. Alan Yang
 2025-07-03 15:37

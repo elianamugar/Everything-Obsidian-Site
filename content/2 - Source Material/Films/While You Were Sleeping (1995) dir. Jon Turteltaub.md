@@ -1,6 +1,7 @@
 ---
 banner: "![[While You Were Sleeping 1.png]]"
 banner_y: 0.16
+created: 2025-06-08
 ---
 # While You Were Sleeping (1995) dir. Jon Turteltaub
 

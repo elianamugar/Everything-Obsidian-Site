@@ -1,5 +1,6 @@
 ---
 banner: "![[Escape from NY 1.png]]"
+created: 2025-09-01
 ---
 # Escape From New York (1981) dir. John Carpenter
 2025-09-01 22:08

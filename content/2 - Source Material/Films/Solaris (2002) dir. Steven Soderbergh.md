@@ -1,6 +1,7 @@
 ---
 banner: "![[Solaris 2.png]]"
 banner_y: 0.576
+created: 2025-07-14
 ---
 # Solaris (2002) dir. Steven Soderbergh
 2025-07-14 23:57

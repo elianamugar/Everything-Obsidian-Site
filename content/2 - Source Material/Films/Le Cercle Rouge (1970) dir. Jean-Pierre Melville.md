@@ -1,6 +1,7 @@
 ---
 banner: "![[Le Cercle Rouge 1.png]]"
 banner_y: 0.408
+created: 2025-10-02
 ---
 # Le Cercle Rouge (1970) dir. Jean-Pierre Melville
 2025-10-02 21:35

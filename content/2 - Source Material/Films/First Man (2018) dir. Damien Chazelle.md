@@ -1,3 +1,7 @@
+---
+created: 2026-04-28
+---
+
 
 
 # First Man (2018) dir. Damien Chazelle

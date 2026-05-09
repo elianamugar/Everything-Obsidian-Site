@@ -1,3 +1,7 @@
+---
+created: 2025-08-01
+---
+
 
 
 # Amélie (2001) dir. Jean-Pierre Jeunet

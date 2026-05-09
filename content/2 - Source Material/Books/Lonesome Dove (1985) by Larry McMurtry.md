@@ -1,3 +1,7 @@
+---
+created: 2026-03-07
+---
+
 2026-03-07 23:49
 
 Tags: [[Book]] [[Series]] [[Texas]] [[Montana]] [[America]] [[1980s]] [[1870s]]
@@ -173,12 +177,50 @@ Rating:
   "Wantin' takes too much time," Deets said, "I'd rather be working."
 - Lots of curiosity, but more fear. It was strange life… (Lorena)
 - “Come ride to town with me,” Augustus said to Call. “This place is quiet as a church on Monday. I’ll buy you a meal and we can sit and talk philosophy.”
-“No, I’ll stay,” Call said. “I don’t know a philosophy.”
-“Your philosophy is to worry too much,” Augustus said.
-- Better if something happens and kills us both, she thought. At least I wouldn’t have to be alone. 
+  “No, I’ll stay,” Call said. “I don’t know a philosophy.”
+  “Your philosophy is to worry too much,” Augustus said.
+- Better if something happens and kills us both, she thought. At least I wouldn’t have to be alone. (Lorena)
+- Rough as the place was, accustomed as they all were to sudden death, they felt they had seen something extraordinary, something they would rather not have seen.
+- I didn't want you here. I needed the dreams. I knew you for a rake and a rambler but it was sweet to pretend you only loved me. -Clara
+- I ain’t been scorched by lightning, but I doubt it could be hotter than being scorched by you. -Gus
+- Yet when it had been simple, she had always worried that Gus didn’t want it. Maybe he was just being kind. She didn’t know—didn’t know what things meant, or didn’t mean. She had never expected to find, in the whole world, a place where someone would *ask* her to stay—even in her dreams of San Francisco no one had ever asked her to stay. She had seldom even spoken to a woman in her years in Lonesome Dove, and had no expectation that one would speak to her. The fact that Clara volunteered made everything seem different. (Lorena)
+- It amused Augustus that his Lorie had been adopted as an ally by his old love. The old love and the new stood by his horse’s head, neither of them looking quite calm. Clara, in fact, was getting angry. Lorena looked sad. He hugged them both and gave them each a kiss.
+- "I think we ought to have listened to our cook," Augustus said. "It's looking droughty to me."
+  "If we can make Powder River I guess we'll be all right," Call said.
+  "What if Jake lied to us?" Augustus said. "What if Montana ain't the paradise he said it was? We'll have come a hell of a way for nothing."
+  "I want to see it," Call said. "We'll be the first to graze cattle on it. Don't that interest you?"
+  "Not much," Augustus said. "I've watched these goddamn cattle graze all I want to."
+- "She ain't gonna kill the Captain," Deets said. He had the sad sense that things were not right. It seemed they were going to go north forever, and he couldn't think why. Life had been orderly and peaceful in Texas. He himself had particularly enjoyed his periodic trips to San Antonio to deposit money. Texas had always been their country, and it was a puzzle to him why they were going to a country that would probably be so wild there wouldn't even be banks to take money to.
+  "We way up here and it ain't our country," he said, looking at Pea. That was the heart of it – best to stay in your own country and not go wandering off where you don't know the rivers or the water holes.
+- I need to cry, but I’ve got no tears. This goddamn country has burned up my tears. -Allen O’Brien
+- He hoped that now the Captain would see that he had been right to feel worried about leaving Texas. It was a mistake, coming into other people’s country. It only disturbed them and led to things like the dead boy. People wouldn’t understand, wouldn’t know that they were friendly. (Deets)
+- I do wish I’d just stayed in Lonesome Dove. -Lippy
+- "I guess we'll meet them soon enough," Call said.
+  "If not too soon. They may come biling out of them hills and wipe us out any day. Then we'd have enough meat to last the winter. They'd be rich Indians, and we'd be dead fools."
+  "Fools for doing what?" Call said. "This country's looking better all the time."
+  "Fools for living the lives we've lived," Augustus said.
+  "I've enjoyed mine," Call said. "What was wrong with yours?"
+  "I should have married again," Augustus said.
+- It struck her that endings were never as you would expect them to be. She had thought she would be relieved when Bob finally die. She hadn't felt he was part of their life anymore, and yet, now that he was gone, she knew he had been. A silent part, an uncomfortable part, but still there, still her husband, still the girls' father. He had been changed, but not removed. (Clara)
+- She didn't cry, but merely felt a wish, now he was gone, that she could  somehow escape dealing with the tiresome formalities of death. (Clara)
+- Why interrupt it for a death that couldn't be helped? And yet death was not something you could ignore. It had its weight. It was a dead man lying upstairs, not a man who was sick. It seemed to her she had better not form the practice of ignoring death. If she tried it, death would find a way to answer back – it would take another of her loved ones, to remind her to respect it. (Clara)
+- "Do you think we'll see Indians?" Newt asked.
+  "You bet," Augustus said. "We might all get killed this afternoon, for all I know. That's the wild for you – it's got its dangers, which is part of the beauty. 'Course the Indians have had this land forever. To them it's precious because it's old. To us it's exciting because it's new."
+- What you have to understand is that Woodrow Call is a peculiar man. He likes to think that things are a certain way. He likes to think everybody does their duty, especially him. He likes to think people live for duty – I don't know what started him thinking that way. He ain't dumb. He knows perfectly well people don't live for duty. But he won't admit it about anybody if he can help it, and he especially won't admit it about himself. -Gus
+- "Woodrow don't like to admit that he's like the rest of us," Augustus said, seeing the boy's perplexity.
+  "He ain't," Newt said. That was obvious. The Captain never behaved like other people.
+  "He ain't, that's true," Augustus said. "But he had a chance to be once. He turned his back on it, and now he ain't about to admit that he made the wrong choice. He'd as soon kill himself. He's got to keep trying to be the way he thinks he is, and he's got to make out that he was always that way – it's why he ain't owned up to being your pa."
+- The men began to talk of the Yellowstone river as if it were the place where the world ended – or, at least, the place where the drive would end. In their thinking it had taken on a magical quality, partly because no one really knew anything about it.
+- "Just because it's all you know don't mean it's all you'd enjoy," Augustus said.
+- All men were mortal, and they felt particularly so.
+- "Since you refuse company, you'll have to drink alone. I have to go deliver a child into this unhappy world."
+  "It's a fine world, though rich in hardships at times," Augustus said.
 
 # Thoughts
 - _Uva uvam vivendo varia fit_ is the Latin phrase Gus paints on the sign. He says he doesn't remember what it means (showing he's one of he more educated cowboys) since he learned the Latin in school. It literally translates to "the grape becomes different as the grape lives." But apparently, it's a misquote of the classical Latin proverb *Uva uvam videndo varia fit* (the second *v* in *vivendo* should be a *d*). It represents how people (or grapes) change and are influenced by the company they keep, acting as a metaphor for the friendships and relationships in the story.
 - Chapter 75: Clara's chapter is by far my favorite I think.
 	- Bob rotting upstairs and yearning for another baby boy and Elmira (crossover!) giving birth but she might die at the expense of the baby... oh that's just too good. And the fact that Elmira doesn't want the baby! Wow. Fantastic writing. Then Elmira leaves! And leaves Clara with a BABY BOY! Bob's finally got a boy! That's alive!
 - Just finished chapter 75 and that chapter will be very near and dear to me for a long time.
+- The power of Clara asking people to stay and they *want* to! Newt, Lorena, July… she’s a big mama bird making everyone feel warm and safe and welcome. She makes people feel loved and seen. the only people who didn’t were the buffalo hunters and Elmira.
+- Clara is my favorite character.
+- Chapter 94 :(

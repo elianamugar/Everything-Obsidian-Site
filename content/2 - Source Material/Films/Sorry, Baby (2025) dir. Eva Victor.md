@@ -1,6 +1,7 @@
 ---
 banner: "![[Sorry Baby 1.png]]"
 banner_y: 0.28
+created: 2025-08-12
 ---
 # Sorry, Baby (2025) dir. Eva Victor
 2025-08-12 19:36

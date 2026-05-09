@@ -1,6 +1,7 @@
 ---
 banner: "![[Lilya 4-ever 1.png]]"
 banner_y: 0.694
+created: 2025-07-04
 ---
 # Lilya 4-ever (2002) dir. Lukas Moodysson
 2025-07-04 15:03

@@ -1,3 +1,7 @@
+---
+created: 2025-05-10
+---
+
 2025-05-10 17:16
 
 Tags: [[Syria]] [[Geopolitics]] [[Middle East]]

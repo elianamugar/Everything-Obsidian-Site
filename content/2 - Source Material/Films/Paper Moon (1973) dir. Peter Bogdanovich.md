@@ -1,6 +1,7 @@
 ---
 banner: "![[Paper Moon 1.png]]"
 banner_y: 0.308
+created: 2025-09-29
 ---
 # Paper Moon (1973) dir. Peter Bogdanovich
 2025-09-29 15:42

@@ -1,6 +1,7 @@
 ---
 banner: "![[Nimic 1.png]]"
 banner_y: 0.05
+created: 2025-05-14
 ---
 # Nimic (2019) dir. Yorgos Lanthimos
 2025-05-14 21:26

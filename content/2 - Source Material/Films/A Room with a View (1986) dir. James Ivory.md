@@ -1,6 +1,7 @@
 ---
 banner: "![[A Room with a View 2.png]]"
 banner_y: 0.288
+created: 2025-08-01
 ---
 # A Room with a View (1986) dir. James Ivory
 2025-08-01 16:28

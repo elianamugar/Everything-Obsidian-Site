@@ -1,6 +1,7 @@
 ---
 banner: "![[Purple Noon 1.png]]"
 banner_y: 0.84
+created: 2025-09-16
 ---
 # Purple Noon (1960) dir. René Clément
 2025-09-16 21:32

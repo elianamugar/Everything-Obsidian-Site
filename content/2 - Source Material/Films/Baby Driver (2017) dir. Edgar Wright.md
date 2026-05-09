@@ -1,6 +1,7 @@
 ---
 banner: "![[Baby Driver 1.png]]"
 banner_y: 0.196
+created: 2025-09-12
 ---
 # Baby Driver (2017) dir. Edgar Wright
 2025-09-12 22:43

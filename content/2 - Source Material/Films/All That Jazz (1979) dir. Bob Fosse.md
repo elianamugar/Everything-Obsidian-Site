@@ -1,6 +1,7 @@
 ---
 banner: "![[All That Jazz 1.png]]"
 banner_y: 0.488
+created: 2025-07-07
 ---
 # All That Jazz (1979) dir. Bob Fosse
 2025-07-07 18:54

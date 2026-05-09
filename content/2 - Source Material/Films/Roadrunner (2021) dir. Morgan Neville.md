@@ -1,6 +1,7 @@
 ---
 banner: "![[Roadrunner 1.png]]"
 banner_y: 0.296
+created: 2025-06-30
 ---
 # Roadrunner (2021) dir. Morgan Neville
 2025-06-30 17:22

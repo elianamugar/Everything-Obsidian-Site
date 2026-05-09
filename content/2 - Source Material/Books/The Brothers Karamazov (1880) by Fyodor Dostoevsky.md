@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 18:25
 
 Tags: [[Book]] [[Passion]] [[Love]] [[Russia]] [[19th Century Literature]] [[1880s]] [[Dostoevsky]] [[Humanity]] [[Classic]]

@@ -1,6 +1,7 @@
 ---
 banner: "![[Thief 1.png]]"
 banner_y: 0.368
+created: 2025-09-07
 ---
 # Thief (1981) dir. Michael Mann
 2025-09-07 15:26

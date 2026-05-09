@@ -1,6 +1,7 @@
 ---
 banner: "![[The Card Counter 1.png]]"
 banner_y: 0.412
+created: 2025-09-26
 ---
 # The Card Counter (2021) dir. Paul Schrader
 2025-09-26 22:24

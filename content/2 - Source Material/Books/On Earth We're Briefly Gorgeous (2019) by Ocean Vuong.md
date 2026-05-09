@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 23:44
 
 Tags: [[2010s]] [[LGBTQ+]] [[Contemporary]] [[Vietnam]] [[America]] [[Book]] [[Linguistics]] [[Memory]] [[Grief]] [[Love]]

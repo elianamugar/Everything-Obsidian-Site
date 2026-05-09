@@ -1,3 +1,7 @@
+---
+created: 2025-06-30
+---
+
 
 
 # Stoner (1965) by John Williams

@@ -1,5 +1,6 @@
 ---
 banner: "![[Fantastic Planet 1.png]]"
+created: 2025-08-23
 ---
 # La Planète Sauvage (Fantastic Planet) (1973) dir. René Laloux
 2025-08-23 15:27

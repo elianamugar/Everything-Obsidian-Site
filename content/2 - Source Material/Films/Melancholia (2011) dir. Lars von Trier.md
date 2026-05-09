@@ -1,6 +1,7 @@
 ---
 banner: "![[Melancholia 1.png]]"
 banner_y: 1
+created: 2025-07-01
 ---
 # Melancholia (2011) dir. Lars von Trier
 2025-07-01 12:26

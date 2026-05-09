@@ -1,3 +1,7 @@
+---
+created: 2025-05-13
+---
+
 2025-05-13 08:02
 
 Tags: [[Book Covers]] [[Pride and Prejudice (1813) by Jane Austen]] [[Édouard Manet]] [[Bourgeois]]

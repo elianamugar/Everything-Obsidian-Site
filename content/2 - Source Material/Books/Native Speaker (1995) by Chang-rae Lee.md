@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 23:25
 
 Tags: [[1990s]] [[Contemporary]] [[America]] [[Asia]] [[Korea]] [[Spy]] [[Identity]] [[Linguistics]] [[Culture]] [[Book]]

@@ -1,6 +1,7 @@
 ---
 banner: "![[The Thing 2.png]]"
 banner_y: 0.148
+created: 2025-08-29
 ---
 # The Thing (2011) dir. Matthijs van Heijningen Jr.
 2025-08-29 23:41

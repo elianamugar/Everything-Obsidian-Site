@@ -1,6 +1,7 @@
 ---
 banner: "![[Absolute Denial 1.png]]"
 banner_y: 0.288
+created: 2025-08-27
 ---
 # Absolute Denial (2021) dir. Ryan Braund
 2025-08-27 08:18

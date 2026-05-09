@@ -1,6 +1,7 @@
 ---
 banner: "![[Like Crazy 1.png]]"
 banner_y: 0.33968
+created: 2025-06-14
 ---
 # Like Crazy (2011) dir. Drake Doremus
 2025-06-14 23:50

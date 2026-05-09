@@ -1,6 +1,7 @@
 ---
 banner: "![[The Velvet Underground 1.png]]"
 banner_y: 0.352
+created: 2025-08-13
 ---
 # The Velvet Underground (2021) dir. Todd Haynes
 2025-08-13 18:18

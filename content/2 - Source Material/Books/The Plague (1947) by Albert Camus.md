@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 23:53
 
 Tags: [[1940s]] [[20th Century Literature]] [[Absurdism]] [[Medicine]] [[Existentialism]] [[Humanity]] [[Consciousness]] [[France]] [[Love]]

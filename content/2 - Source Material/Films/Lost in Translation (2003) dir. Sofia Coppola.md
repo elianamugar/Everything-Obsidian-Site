@@ -1,5 +1,6 @@
 ---
 banner: "![[Lost in Translation 1.png]]"
+created: 2025-07-26
 ---
 # Lost in Translation (2003) dir. Sofia Coppola
 2025-07-26 19:29

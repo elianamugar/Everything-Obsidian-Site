@@ -1,6 +1,7 @@
 ---
 banner: "![[Eight Mountains 1.png]]"
 banner_y: 0.968
+created: 2025-06-28
 ---
 # The Eight Mountains (2022) dir. Felix Van Groeningen, Charlotte Vandermeersch
 2025-06-28 18:07

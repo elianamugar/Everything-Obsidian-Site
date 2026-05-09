@@ -1,3 +1,7 @@
+---
+created: 2025-05-10
+---
+
 2025-05-10 15:33
 
 Tags: [[19th Century Literature]] [[UK]] [[Jane Austen]] [[Feminist]] [["love is violent"]] [[Love]] [[Book]] [[1813]] [[English Etiquette]] [[Classic]]

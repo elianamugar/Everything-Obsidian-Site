@@ -1,5 +1,6 @@
 ---
 banner: "![[Paths of Glory 1.png]]"
+created: 2025-08-01
 ---
 # Paths of Glory (1957) dir. Stanley Kubrick
 2025-08-01 00:20

@@ -1,6 +1,7 @@
 ---
 banner: "![[Smithereens 1.png]]"
 banner_y: 0.394
+created: 2025-07-07
 ---
 # Smithereens (1982) dir. Susan Seidelman
 2025-07-07 17:31

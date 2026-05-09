@@ -1,6 +1,7 @@
 ---
 banner: "![[All the Real Girls 1.png]]"
 banner_y: 0.158
+created: 2025-07-02
 ---
 
 # All the Real Girls (2003) dir. David Gordon Green

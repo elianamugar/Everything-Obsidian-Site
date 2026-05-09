@@ -1,6 +1,7 @@
 ---
 banner: "![[Sexy Beast 1.png]]"
 banner_y: 0.042
+created: 2025-09-15
 ---
 # Sexy Beast (2000) dir. Jonathan Glazer
 2025-09-15 20:24

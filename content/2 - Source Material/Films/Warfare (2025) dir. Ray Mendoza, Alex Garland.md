@@ -1,6 +1,7 @@
 ---
 banner: "![[Warfare 2.png]]"
 banner_y: 1
+created: 2025-07-21
 ---
 # Warfare (2025) dir. Ray Mendoza, Alex Garland
 2025-07-21 19:25

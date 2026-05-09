@@ -1,3 +1,7 @@
+---
+created: 2025-05-17
+---
+
 2025-05-17 00:00
 
 Tags: [[Classic]] [[1900s]] [[20th Century Literature]] [[UK]] [[Italy]] [[Book]]

@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 23:16
 
 Tags: [[2010s]] [[Contemporary]] [[America]] [[LGBTQ+]] [[Bildungsroman]] [[Friendship]] [[Humanity]] [[Love]] [[Grief]] [[Trauma]]

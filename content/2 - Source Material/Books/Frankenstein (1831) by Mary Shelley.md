@@ -1,3 +1,7 @@
+---
+created: 2025-09-05
+---
+
 
 
 # Frankenstein (1831) by Mary Shelley

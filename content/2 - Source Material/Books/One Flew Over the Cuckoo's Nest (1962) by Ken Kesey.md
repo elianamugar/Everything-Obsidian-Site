@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 23:48
 
 Tags: [[1960s]] [[20th Century Literature]] [[America]] [[Book]] [[Medicine]]

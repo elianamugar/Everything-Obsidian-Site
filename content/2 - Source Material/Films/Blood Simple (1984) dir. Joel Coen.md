@@ -1,6 +1,7 @@
 ---
 banner: "![[Blood Simple 1.png]]"
 banner_y: 0.348
+created: 2025-10-05
 ---
 # Blood Simple (1984) dir. Joel Coen
 2025-10-05 13:05

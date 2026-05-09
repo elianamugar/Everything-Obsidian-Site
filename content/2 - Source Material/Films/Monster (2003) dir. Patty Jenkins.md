@@ -1,6 +1,7 @@
 ---
 banner: "![[Monster 1.png]]"
 banner_y: 0.384
+created: 2025-09-05
 ---
 # Monster (2003) dir. Patty Jenkins
 2025-09-05 17:10

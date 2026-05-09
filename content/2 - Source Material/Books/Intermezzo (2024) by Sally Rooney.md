@@ -1,3 +1,7 @@
+---
+created: 2025-08-27
+---
+
 2025-08-27 12:30
 
 Tags: [[Book]] [[Ireland]] [[Romance]] [[Contemporary]] [[2020s]] [[Economics]]

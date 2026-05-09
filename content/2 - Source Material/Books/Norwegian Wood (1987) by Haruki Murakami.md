@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 23:42
 
 Tags: [[1980s]] [[Contemporary]] [[20th Century Literature]] [[Japan]] [[Book]] [[Grief]]

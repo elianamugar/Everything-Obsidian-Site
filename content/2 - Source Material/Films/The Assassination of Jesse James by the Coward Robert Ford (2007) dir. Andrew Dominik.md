@@ -1,6 +1,7 @@
 ---
 banner: "![[Jesse James 1.png]]"
 banner_y: 0.39178
+created: 2025-05-29
 ---
 # The Assassination of Jesse James by the Coward Robert Ford (2007) dir. Andrew Dominik
 2025-05-29 22:47

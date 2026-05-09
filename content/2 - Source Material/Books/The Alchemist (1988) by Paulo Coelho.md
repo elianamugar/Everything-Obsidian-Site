@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 22:29
 
 Tags: [[Book]] [[1980s]] [[20th Century Literature]] [[Brazil]] [[Humanity]] [[Modern Classic]]

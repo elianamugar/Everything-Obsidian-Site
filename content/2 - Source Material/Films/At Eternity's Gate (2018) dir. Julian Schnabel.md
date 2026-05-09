@@ -1,5 +1,6 @@
 ---
 banner: "![[At Eternity's Gate 2.png]]"
+created: 2025-06-23
 ---
 # At Eternity's Gate (2018) dir. Julian Schnabel
 2025-06-23 00:13

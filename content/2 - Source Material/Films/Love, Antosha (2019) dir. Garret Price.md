@@ -1,6 +1,7 @@
 ---
 banner: "![[Love, Antosha 1.png]]"
 banner_y: 0.21
+created: 2025-06-18
 ---
 # Love, Antosha (2019) dir. Garret Price
 

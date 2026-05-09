@@ -1,6 +1,7 @@
 ---
 banner: "![[Love Actually 1.png]]"
 banner_y: 0.344
+created: 2025-05-10
 ---
 # Love Actually (2003) dir. Richard Curtis
 2025-05-10 22:06

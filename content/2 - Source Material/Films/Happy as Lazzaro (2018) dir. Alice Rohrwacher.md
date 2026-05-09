@@ -1,6 +1,7 @@
 ---
 banner: "![[Happy as Lazzaro 1.png]]"
 banner_y: 0.23948
+created: 2025-06-17
 ---
 # Happy as Lazzaro (2018) dir. Alice Rohrwacher
 2025-06-17 23:04

@@ -1,5 +1,6 @@
 ---
 banner: "![[Watership Down 1.png]]"
+created: 2025-08-25
 ---
 # Watership Down (1978) dir. Martin Rosen
 2025-08-25 20:26

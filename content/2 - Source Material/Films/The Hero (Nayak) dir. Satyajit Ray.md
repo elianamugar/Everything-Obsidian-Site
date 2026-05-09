@@ -1,6 +1,7 @@
 ---
 banner: "![[The Hero 1.png]]"
 banner_y: 0.364
+created: 2025-09-20
 ---
 # The Hero (Nayak) dir. Satyajit Ray
 2025-09-20 19:57

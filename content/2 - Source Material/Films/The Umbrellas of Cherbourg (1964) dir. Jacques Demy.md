@@ -1,6 +1,7 @@
 ---
 banner: "![[The Umbrellas of Cherbourg 1.png]]"
 banner_y: 0.2515
+created: 2025-05-10
 ---
 # The Umbrellas of Cherbourg (1964) dir. Jacques Demy
 2025-05-10 22:39

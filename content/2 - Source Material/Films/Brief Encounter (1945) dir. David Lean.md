@@ -1,6 +1,7 @@
 ---
 banner: "![[Brief Encounter 1.png]]"
 banner_y: 0.534
+created: 2025-05-10
 ---
 # Brief Encounter (1945) dir. David Lean
 2025-05-10 15:01

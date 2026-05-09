@@ -1,6 +1,7 @@
 ---
 banner: "![[Je Tu Il Elle 1.png]]"
 banner_y: 0.748
+created: 2025-06-25
 ---
 # Je Tu Il Elle (1974) dir. Chantal Akerman
 2025-06-25 15:42

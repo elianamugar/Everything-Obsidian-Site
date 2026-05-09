@@ -1,6 +1,7 @@
 ---
 banner: "![[Butch Sundance 1.png]]"
 banner_y: 0.484
+created: 2025-09-17
 ---
 # Butch Cassidy and the Sundance Kid (1969) dir. George Roy Hill
 2025-09-17 22:21

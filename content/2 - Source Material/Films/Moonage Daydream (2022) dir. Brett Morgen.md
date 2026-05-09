@@ -1,6 +1,7 @@
 ---
 banner: "![[Moonage Daydream 1.png]]"
 banner_y: 0
+created: 2025-07-06
 ---
 # Moonage Daydream (2022) dir. Brett Morgen
 2025-07-06 18:06

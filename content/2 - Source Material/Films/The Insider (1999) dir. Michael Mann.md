@@ -1,6 +1,7 @@
 ---
 banner: "![[The Insider 1.png]]"
 banner_y: 0.336
+created: 2025-09-27
 ---
 # The Insider (1999) dir. Michael Mann
 2025-09-27 14:38

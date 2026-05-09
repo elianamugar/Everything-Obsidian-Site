@@ -1,5 +1,6 @@
 ---
 banner: "![[Apples 1.png]]"
+created: 2025-06-05
 ---
 # Apples (Μήλα) dir. Christos Nikou
 

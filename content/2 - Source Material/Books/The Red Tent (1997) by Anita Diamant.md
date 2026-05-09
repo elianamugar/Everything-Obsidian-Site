@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 23:58
 
 Tags: [[Religion]] [[Feminist]] [[Book]] [[1990s]] [[America]]

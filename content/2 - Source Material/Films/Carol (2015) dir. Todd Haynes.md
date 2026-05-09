@@ -1,5 +1,6 @@
 ---
 banner: "![[Carol 1.png]]"
+created: 2025-05-10
 ---
 # Carol (2015) dir. Todd Haynes
 2025-05-10 22:41

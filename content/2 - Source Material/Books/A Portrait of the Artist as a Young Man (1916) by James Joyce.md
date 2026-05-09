@@ -1,6 +1,10 @@
+---
+created: 2026-02-11
+---
+
 2026-02-11 23:51
 
-Tags:  [[1910s]] [[Ireland]]
+Tags:  [[1910s]] [[Ireland]] [[aesthetic]]
 
 Genre: [[Literary Fiction]] [[Classic]]
 

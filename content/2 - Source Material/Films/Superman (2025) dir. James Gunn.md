@@ -1,6 +1,7 @@
 ---
 banner: "![[Superman 1.png]]"
 banner_y: 0.278
+created: 2025-08-27
 ---
 # Superman (2025) dir. James Gunn
 2025-08-27 22:15

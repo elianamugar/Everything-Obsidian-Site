@@ -1,6 +1,7 @@
 ---
 banner: "![[Hero 1.png]]"
 banner_y: 0.194
+created: 2025-09-21
 ---
 # Hero (2002) dir. Zhang Yimou
 2025-09-21 17:34

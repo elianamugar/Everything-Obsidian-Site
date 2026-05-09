@@ -1,3 +1,7 @@
+---
+created: 2025-05-17
+---
+
 2025-05-17 00:13
 
 Tags: [[2020s]] [[Contemporary]] [[LGBTQ+]] [[Grief]] [[Asia]] [[America]] [[Vietnam]] [[Violence]] 

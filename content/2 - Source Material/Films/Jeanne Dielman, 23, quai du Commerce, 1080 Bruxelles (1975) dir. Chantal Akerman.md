@@ -1,6 +1,7 @@
 ---
 banner: "![[Jeanne Dielman 1.png]]"
 banner_y: 0.12
+created: 2025-06-24
 ---
 # Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1975) dir. Chantal Akerman
 2025-06-24 13:12

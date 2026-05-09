@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 19:31
 
 Tags: [[Insanity]] [[Identity]] [[UK]] [[Book]] [[1940s]] [[20th Century Literature]] [[Modern Classic]] [[Consciousness]]

@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 23:08
 
 Tags: [[1960s]] [[20th Century Literature]] [[Argentina]] [[Spanish]] [[Latin American]] [[Book]] [[Love]]

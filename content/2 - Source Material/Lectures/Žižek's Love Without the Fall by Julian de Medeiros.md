@@ -1,3 +1,7 @@
+---
+created: 2025-05-11
+---
+
 2025-05-11 13:13
 
 Tags: [["love is violent"]] [[Love]] [[Freud]] [[Lacan]] [[Hegel]] [[Socrates]] [[Plato]] [[Žižek]]

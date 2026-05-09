@@ -1,6 +1,7 @@
 ---
 banner: "![[Vanilla Sky 1.png]]"
 banner_y: 0.312
+created: 2025-09-14
 ---
 # Vanilla Sky (2001) dir. Cameron Crowe
 2025-09-14 17:37

@@ -1,5 +1,6 @@
 ---
 banner: "![[Morvern Callar 1.png]]"
+created: 2025-07-19
 ---
 # Morvern Callar (2002) dir. Lynne Ramsay
 2025-07-19 17:18

@@ -1,6 +1,7 @@
 ---
 banner: "![[Steve 1.png]]"
 banner_y: 0.148
+created: 2025-10-03
 ---
 # Steve (2025) dir. Tim Mielants
 2025-10-03 11:11

@@ -1,5 +1,6 @@
 ---
 banner: "![[A Clockwork Orange 1.png]]"
+created: 2025-07-16
 ---
 # A Clockwork Orange (1971) dir. Stanley Kubrick
 2025-07-16 22:52

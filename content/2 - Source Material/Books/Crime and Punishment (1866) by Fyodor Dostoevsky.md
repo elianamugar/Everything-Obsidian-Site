@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 22:44
 
 Tags: [[Russia]] [[1860s]] [[19th Century Literature]] [[Dostoevsky]] [[Book]] [[Classic]] [[Consciousness]]

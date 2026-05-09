@@ -1,6 +1,7 @@
 ---
 banner: "![[Say Nothing 1.png]]"
 banner_y: 0
+created: 2025-08-29
 ---
 By Michael Lennox, Mary Nighy, Anthony Byrne, Alice Seabright
 # Say Nothing (2024)

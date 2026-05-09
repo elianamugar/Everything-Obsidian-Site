@@ -1,6 +1,7 @@
 ---
 banner: "![[Grizzly Man 1.png]]"
 banner_y: 0.726
+created: 2025-09-04
 ---
 # Grizzly Man (2005) dir. Werner Herzog
 2025-09-04 13:45

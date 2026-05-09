@@ -1,3 +1,7 @@
+---
+created: 2026-03-15
+---
+
 2026-03-15 01:40
 
 Tags: [[International Relations Theory (7th ed.) – Kauppi, Viotti]] [[Realism]] [[War]]

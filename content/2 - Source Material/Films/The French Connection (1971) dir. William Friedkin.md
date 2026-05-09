@@ -1,6 +1,7 @@
 ---
 banner: "![[The French Connection 2.png]]"
 banner_y: 0.306
+created: 2025-09-01
 ---
 # The French Connection (1971) dir. William Friedkin
 2025-09-01 14:02

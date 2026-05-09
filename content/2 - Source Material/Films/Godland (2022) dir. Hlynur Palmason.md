@@ -1,6 +1,7 @@
 ---
 banner: "![[Godland 3.png]]"
 banner_y: 0.34
+created: 2025-06-26
 ---
 
 # Godland (2022) dir. Hlynur Palmason

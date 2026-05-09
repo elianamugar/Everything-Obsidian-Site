@@ -1,6 +1,7 @@
 ---
 banner: "![[Phantom Thread 1.png]]"
 banner_y: 0.122
+created: 2025-09-02
 ---
 # Phantom Thread (2017) dir. Paul Thomas Anderson
 2025-09-02 11:06

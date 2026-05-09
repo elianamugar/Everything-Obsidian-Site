@@ -1,3 +1,7 @@
+---
+created: 2025-05-17
+---
+
 2025-05-17 00:02
 
 Tags: [[1950s]] [[20th Century Literature]] [[Book]] [[Japan]] [[Love]] [[Asia]] 

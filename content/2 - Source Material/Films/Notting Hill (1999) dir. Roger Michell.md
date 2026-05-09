@@ -1,6 +1,7 @@
 ---
 banner: "![[Notting Hill 1.png]]"
 banner_y: 0.324
+created: 2025-05-10
 ---
 # Notting Hill (1999) dir. Roger Michell
 2025-05-10 22:20

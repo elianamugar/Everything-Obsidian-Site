@@ -1,6 +1,7 @@
 ---
 banner: "![[Ratcatcher 1.png]]"
 banner_y: 0.382
+created: 2025-07-20
 ---
 # Ratcatcher (1999) dir. Lynne Ramsey
 2025-07-20 17:46

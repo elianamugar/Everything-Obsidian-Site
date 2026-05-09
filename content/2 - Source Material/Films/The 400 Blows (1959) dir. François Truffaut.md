@@ -1,6 +1,7 @@
 ---
 banner: "![[The 400 Blows 1.png]]"
 banner_y: 0.862
+created: 2025-08-22
 ---
 # The 400 Blows (1959) dir. François Truffaut
 2025-08-22 17:39

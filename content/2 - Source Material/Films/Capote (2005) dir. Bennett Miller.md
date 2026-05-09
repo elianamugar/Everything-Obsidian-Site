@@ -1,5 +1,6 @@
 ---
 banner: "![[Capote 1.png]]"
+created: 2025-08-20
 ---
 # Capote (2005) dir. Bennett Miller
 2025-08-20 22:23

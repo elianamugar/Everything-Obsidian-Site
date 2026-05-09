@@ -1,6 +1,7 @@
 ---
 banner: "![[The Wind That Shakes the Barley 1.png]]"
 banner_y: 0.188
+created: 2025-10-04
 ---
 # The Wind That Shakes the Barley (2006) dir. Ken Loach
 2025-10-04 19:16

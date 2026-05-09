@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 23:23
 
 Tags: [[America]] [[2010s]] [[Contemporary]] [[New York]] 

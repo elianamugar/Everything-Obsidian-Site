@@ -1,3 +1,7 @@
+---
+created: 2025-09-21
+---
+
 
 
 # Ripley (2024) dir. Steven Zaillian

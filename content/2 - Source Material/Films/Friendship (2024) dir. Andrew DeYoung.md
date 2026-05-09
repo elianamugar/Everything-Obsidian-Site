@@ -1,6 +1,7 @@
 ---
 banner: "![[Friendship 1.png]]"
 banner_y: 0.056
+created: 2025-07-23
 ---
 # Friendship (2024) dir. Andrew DeYoung
 2025-07-23 21:45

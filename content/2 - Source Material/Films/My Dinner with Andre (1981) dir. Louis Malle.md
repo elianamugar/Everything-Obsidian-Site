@@ -1,6 +1,7 @@
 ---
 banner: "![[My Dinner with Andre 1.png]]"
 banner_y: 0.24
+created: 2025-07-29
 ---
 # My Dinner with Andre (1981) dir. Louis Malle
 2025-07-29 15:12

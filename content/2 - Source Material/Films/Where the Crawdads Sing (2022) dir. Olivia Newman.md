@@ -1,6 +1,7 @@
 ---
 banner: "![[Where the Crawdads Sing 1.png]]"
 banner_y: 0.494
+created: 2025-05-10
 ---
 # Where the Crawdads Sing (2022) dir. Olivia Newman
 

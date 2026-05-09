@@ -1,6 +1,7 @@
 ---
 banner: "![[The Killing 2.png]]"
 banner_y: 0.054
+created: 2025-09-03
 ---
 # The Killing (1956) dir. Stanley Kubrick
 2025-09-03 16:19

@@ -1,6 +1,7 @@
 ---
 banner: "![[Nobody 1.png]]"
 banner_y: 0.204
+created: 2025-09-09
 ---
 # Nobody (2021) dir. Ilya Naishuller
 2025-09-09 23:27

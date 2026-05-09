@@ -1,3 +1,7 @@
+---
+created: 2025-05-13
+---
+
 2025-05-13 08:25
 
 Tags: [[Book Covers]] [[The Brothers Karamazov (1880) by Fyodor Dostoevsky]] [[Bourgeois]]

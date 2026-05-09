@@ -1,5 +1,6 @@
 ---
 banner: "![[A Man and A Woman 1.png]]"
+created: 2025-05-10
 ---
 # A Man and a Woman (1966) dir. Claude Lelouch
 2025-05-10 14:30

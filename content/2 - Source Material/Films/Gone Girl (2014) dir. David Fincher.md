@@ -2,6 +2,7 @@
 banner: "![[Gone Girl 1.png]]"
 banner_x: 0.29303
 banner_y: 0.626
+created: 2025-06-25
 ---
 # Gone Girl (2014) dir. David Fincher
 2025-06-25 16:29

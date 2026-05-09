@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 22:43
 
 Tags: [[Bildungsroman]] [[Contemporary]] [[Ireland]] [[2020s]] [[Book]]

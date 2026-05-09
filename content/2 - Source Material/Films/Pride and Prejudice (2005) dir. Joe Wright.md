@@ -1,6 +1,7 @@
 ---
 banner: "![[Pride and Prejudice 1.png]]"
 banner_y: 1
+created: 2025-05-10
 ---
 # Pride and Prejudice (2005) dir. Joe Wright
 2025-05-10 20:48

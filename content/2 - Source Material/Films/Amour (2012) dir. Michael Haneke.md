@@ -2,6 +2,7 @@
 banner: "![[Amour 1.png]]"
 banner_x: 0.47013
 banner_y: 0.516
+created: 2025-07-28
 ---
 # Amour (2012) dir. Michael Haneke
 2025-07-28 12:32

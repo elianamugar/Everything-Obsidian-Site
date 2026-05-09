@@ -1,6 +1,7 @@
 ---
 banner: "![[News from Home 1.png]]"
 banner_y: 0.25351
+created: 2025-06-23
 ---
 
 # News from Home (1976) dir. Chantal Akerman

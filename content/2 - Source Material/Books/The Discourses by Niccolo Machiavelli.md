@@ -1,3 +1,7 @@
+---
+created: 2026-03-23
+---
+
 
 
 # The Discourses by Niccolo Machiavelli

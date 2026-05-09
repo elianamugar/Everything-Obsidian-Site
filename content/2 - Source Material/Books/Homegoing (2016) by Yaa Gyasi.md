@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 23:05
 
 Tags: [[2010s]] [[Race]] [[Identity]] [[Ghana]] [[America]] [[Book]] [[Colonialism]]

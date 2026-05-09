@@ -1,6 +1,7 @@
 ---
 banner: "![[Night Manager 1.png]]"
 banner_y: 0.166
+created: 2025-09-08
 ---
 # The Night Manager (2016) dir. Susanne Bier
 2025-09-08 00:15

@@ -1,6 +1,7 @@
 ---
 banner: "![[La Bamba 1.png]]"
 banner_y: 0
+created: 2025-07-11
 ---
 # La Bamba (1987) dir. Luis Valdez
 2025-07-11 01:35

@@ -1,3 +1,7 @@
+---
+created: 2025-05-17
+---
+
 2025-05-17 00:15
 
 Tags: [[1970s]] [[20th Century Literature]] [[UK]] [[Book]] [[Crime]] [[Espionage]] 

@@ -1,6 +1,7 @@
 ---
 banner: "![[Sinners 1.png]]"
 banner_y: 0.51
+created: 2025-07-29
 ---
 # Sinners (2025) dir. Ryan Coogler
 2025-07-29 22:20

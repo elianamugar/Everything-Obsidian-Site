@@ -2,6 +2,7 @@
 banner: "![[Lars and the Real Girl 16.png]]"
 banner_x: 0.46646
 banner_y: 0.6
+created: 2025-06-29
 ---
 # Lars and the Real Girl (2007) dir. Craig Gillespie
 2025-06-29 17:50

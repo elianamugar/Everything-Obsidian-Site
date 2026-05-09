@@ -1,3 +1,7 @@
+---
+created: 2026-03-10
+---
+
 
 
 # Game Theory 1 – The Dating Game by Prof. Jiang

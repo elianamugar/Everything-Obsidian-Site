@@ -1,6 +1,7 @@
 ---
 banner: "![[The Brutalist 1.png]]"
 banner_y: 0.81864
+created: 2025-05-20
 ---
 # The Brutalist (2024) dir. Brady Corbet
 2025-05-20 21:32

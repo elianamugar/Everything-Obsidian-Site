@@ -1,3 +1,7 @@
+---
+created: 2025-05-16
+---
+
 2025-05-16 22:59
 
 Tags: [[America]] [[1910s]] [[20th Century Literature]] [[Book]] [[Tragedy]] [[Love Triangle]] [[Love]] [[Classic]]

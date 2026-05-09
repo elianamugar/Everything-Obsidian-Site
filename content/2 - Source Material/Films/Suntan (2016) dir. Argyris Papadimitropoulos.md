@@ -1,6 +1,7 @@
 ---
 banner: "![[Suntan 1.png]]"
 banner_y: 0.176
+created: 2025-05-14
 ---
 # Suntan (2016) dir. Argyris Papadimitropoulos
 

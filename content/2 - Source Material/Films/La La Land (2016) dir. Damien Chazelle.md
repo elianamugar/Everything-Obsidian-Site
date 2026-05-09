@@ -1,6 +1,7 @@
 ---
 banner: "![[La La Land 1.png]]"
 banner_y: 0.28357
+created: 2025-05-10
 ---
 # La La Land (2016) dir. Damien Chazelle
 2025-05-10 22:16

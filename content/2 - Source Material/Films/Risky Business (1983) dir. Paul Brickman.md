@@ -1,6 +1,7 @@
 ---
 banner: "![[Risky Business 1.png]]"
 banner_y: 0.514
+created: 2025-07-10
 ---
 
 

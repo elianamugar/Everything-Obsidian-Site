@@ -1,3 +1,7 @@
+---
+created: 2025-09-30
+---
+
 
 
 # Mikey and Nicky (1976) dir. Elaine May

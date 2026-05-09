@@ -1,5 +1,6 @@
 ---
 banner: "![[Blow Out 1.png]]"
+created: 2025-08-21
 ---
 # Blow Out (1981) dir. Brian de Palma
 2025-08-21 12:48

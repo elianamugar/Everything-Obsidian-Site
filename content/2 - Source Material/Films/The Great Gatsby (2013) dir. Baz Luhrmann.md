@@ -1,5 +1,6 @@
 ---
 banner: "![[The Great Gatsby 1.png]]"
+created: 2025-05-10
 ---
 # The Great Gatsby (2013) dir. Baz Luhrmann
 2025-05-10 22:49

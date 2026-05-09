@@ -1,3 +1,7 @@
+---
+created: 2025-05-17
+---
+
 2025-05-17 00:04
 
 Tags: [[1990s]] [[20th Century Literature]] [[Japan]] [[Book]] [[Contemporary]] [[Asia]] [[Love]] 

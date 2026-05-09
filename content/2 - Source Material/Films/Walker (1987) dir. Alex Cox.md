@@ -1,6 +1,7 @@
 ---
 banner: "![[Walker 1.png]]"
 banner_y: 0.398
+created: 2025-08-19
 ---
 # Walker (1987) dir. Alex Cox
 2025-08-19 12:05

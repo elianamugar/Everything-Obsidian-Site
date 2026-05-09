@@ -1,3 +1,9 @@
+---
+created: 2026-05-11
+---
+
+2026-05-11 12:47
+
 Tags: [[Geopolitics]] [[IR]] 
 ## [[1. Thinking about IR Theory]]
 ### [[1.1 Epistemology, Methodology, and Ontology]]

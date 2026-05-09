@@ -1,6 +1,7 @@
 ---
 banner: "![[Kes 1.png]]"
 banner_y: 0.248
+created: 2025-08-09
 ---
 # Kes (1969) dir. Ken Loach
 2025-08-09 20:55

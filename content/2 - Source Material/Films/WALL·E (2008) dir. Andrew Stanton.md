@@ -1,6 +1,7 @@
 ---
 banner: "![[WALLE 1.png]]"
 banner_y: 0.418
+created: 2025-08-17
 ---
 # WALL·E (2008) dir. Andrew Stanton
 2025-08-17 00:03

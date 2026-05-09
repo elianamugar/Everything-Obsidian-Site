@@ -1,6 +1,7 @@
 ---
 banner: "![[With Every Heartbeat 1.png]]"
 banner_y: 0.39
+created: 2025-05-10
 ---
 # With Every Heartbeat (2011) dir. Alexandra-Therese Keining
 2025-05-10 22:53

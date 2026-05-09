@@ -1,6 +1,7 @@
 ---
 banner: "![[Materialists 1.png]]"
 banner_y: 0.118
+created: 2025-07-22
 ---
 # Materialists (2025) dir. Celine Song
 2025-07-22 18:08
