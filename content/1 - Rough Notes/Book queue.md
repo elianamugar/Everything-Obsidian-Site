@@ -1,3 +1,7 @@
+---
+created: 2025-08-21
+---
+
 - [x] Intermezzo
 - [x] Frankenstein
 - [x] Hamnet

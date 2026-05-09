@@ -1,3 +1,7 @@
+---
+created: 2025-12-02
+---
+
 - [ ] DRINK LOTS OF WATER IN THE MORNING AND **DON'T PEE**
 	- [ ] it'll be first thing in the morning
 - [ ] Valid ID

@@ -1,3 +1,7 @@
+---
+created: 2025-09-08
+---
+
 - Limassol, Cyprus (10am - 6pm)
 	- Old town city center - food + drinks
 		- Limassol Castle - 30 mins

@@ -1,3 +1,7 @@
+---
+created: 2025-06-11
+---
+
 <u>20m20s:</u> Mae finished doing a comedy set, which George secretly watched to support her. The comedy set was about how George makes Mae feel insecure. Nick tells Mae that George saw the set. Mae runs home to sort out the situation. Mae sees George sitting on their bed in a sad manner. \[This is a great parallel to the first episode, where they play the "truth" game]
 
 M: Hey. Those were just jokes. That was just jokes.

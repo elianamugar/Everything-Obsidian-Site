@@ -1,3 +1,7 @@
+---
+created: 2025-09-21
+---
+
 <u>Morning</u>
 - Whenever you wake up (~7-9am), take him on a little walk around the backyard. He'll need to poop.
 - His breakfast is **half a cup** (the cup that's already in the dog food bin) of dog food and a couple spoonfuls of the canned dog food.

@@ -1,3 +1,7 @@
+---
+created: 2025-06-11
+---
+
 <u>21m00:</u> George waits outside of Mae's Narcotics Anonymous meeting (post-breakup). George asks Mae if they can grab coffee at George's flat. They're in the flat.
 
 G: I want to say that I thought I was doing the right thing, ending it. But I think I was just doing the easy thing, and I should've carried your bags.

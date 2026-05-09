@@ -1,3 +1,7 @@
+---
+created: 2025-05-13
+---
+
 Tags: [[Greek]] [[Linguistics]] [[Greek culture]]
 
 ![[Order-ID22630.txt]]

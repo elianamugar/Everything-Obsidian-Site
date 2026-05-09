@@ -1,3 +1,7 @@
+---
+created: 2025-10-02
+---
+
 **Netflix**
 - [ ] Dirty Dancing
 - [ ] Taxi Driver

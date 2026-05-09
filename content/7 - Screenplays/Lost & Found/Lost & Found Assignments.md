@@ -1,3 +1,7 @@
+---
+created: 2025-05-10
+---
+
 Books to read
 - [x] [[Pride and Prejudice (1813) by Jane Austen]]
 - [ ] [[Wuthering Heights (1847) by Emily Brontë]]

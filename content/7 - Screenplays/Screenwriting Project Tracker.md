@@ -1,3 +1,7 @@
+---
+created: 2026-02-10
+---
+
 **STATUS TYPES:**
 - Idea
 - Working Draft

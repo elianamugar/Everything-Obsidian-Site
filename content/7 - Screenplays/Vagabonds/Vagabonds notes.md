@@ -1,3 +1,7 @@
+---
+created: 2025-06-15
+---
+
 Tags: [[Vagabonds]]
 - Themes: immigration/moving place to place, what is home, alienation, loneliness, hyper independence, avoidance, love/fear of love, what is intimacy
 	- don't want to be too masculine in portrayal of depression

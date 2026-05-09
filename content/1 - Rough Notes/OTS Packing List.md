@@ -1,3 +1,7 @@
+---
+created: 2026-05-05
+---
+
 - [ ] Military dress shoes
 	- [Bates sentry high gloss Oxfords](https://tacticalgear.com/bates-sentry-high-gloss-oxford-black~2?queryID=bec2299ead48ee6eb5918d7820ab1cd5)
 	- [Rothco uniform Oxford work sole](https://tacticalgear.com/rothco-uniform-oxford-work-sole-black?queryID=bec2299ead48ee6eb5918d7820ab1cd5)

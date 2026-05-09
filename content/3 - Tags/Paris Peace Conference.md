@@ -1,1 +1,5 @@
+---
+created: 2026-03-13
+---
+
 The Paris Peace Conference was a set of formal and informal diplomatic meetings in 1919 and 1920 after the end of World War I, in which the victorious Allies set the peace terms for the defeated Central Powers.

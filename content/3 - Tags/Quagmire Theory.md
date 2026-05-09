@@ -1,1 +1,5 @@
+---
+created: 2026-04-27
+---
+
 The quagmire theory suggests the U.S. entered the Vietnam War unintentionally, stumbling into a complex conflict through incremental, small-step escalations rather than a coherent plan. Popularized by historians like Arthur Schlesinger in 1967, it argues leaders didn't understand the commitment's depth, becoming trapped in a "swamp". ([wiki](https://en.wikipedia.org/wiki/Quagmire_theory))

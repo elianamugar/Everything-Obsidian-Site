@@ -1,3 +1,7 @@
+---
+created: 2025-06-30
+---
+
 - [ ] Audio Interface dual-XLR input
 	- [ ] Universal Audio Volt 276
 - [ ] Mic for recording guitar (condenser)

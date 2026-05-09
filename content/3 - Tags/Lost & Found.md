@@ -1,3 +1,7 @@
+---
+created: 2025-05-10
+---
+
 
 Synopsis
 Aubrey and Sebastian are happily in love and about to get married. Jackie, Sebastian's half-sister, enters the picture and makes Aubrey rethink love.

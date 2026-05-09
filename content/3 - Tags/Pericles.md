@@ -1,3 +1,7 @@
+---
+created: 2026-03-15
+---
+
 known for leading Athens' Golden Age, transforming it into a cultural, democratic, and powerful center through his leadership, powerful oratory, and vision for public works, including the construction of the Parthenon, fostering arts, and strengthening democracy with citizen participation, although his ambition also fueled conflicts like the Peloponnesian War
 
 expanded democratic participation, allowing more citizens a voice in government and making office accessible to the less wealthy

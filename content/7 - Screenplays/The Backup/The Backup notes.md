@@ -1,3 +1,7 @@
+---
+created: 2026-04-28
+---
+
 Tags: [[The Backup]]
 
 - [x] Watch *First Man* burning scene

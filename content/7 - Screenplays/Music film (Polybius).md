@@ -1,3 +1,7 @@
+---
+created: 2026-03-19
+---
+
 - Inspiration
 	- *Inside Llewyn Davis*
 	- *A Complete Unknown*

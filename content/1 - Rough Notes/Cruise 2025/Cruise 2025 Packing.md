@@ -1,3 +1,7 @@
+---
+created: 2025-09-22
+---
+
 - Backpack
 	- [x] Sony A6500
 	- [x] zoom lens

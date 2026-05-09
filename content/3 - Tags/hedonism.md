@@ -1,3 +1,7 @@
+---
+created: 2026-03-13
+---
+
 the ethical theory that pleasure is the highest good and proper aim of human life, maximizing pleasure while minimizing pain
 
 advocates for pursuing enjoyment, often focusing on self-interest

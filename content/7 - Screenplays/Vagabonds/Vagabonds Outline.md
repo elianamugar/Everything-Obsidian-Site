@@ -1,3 +1,7 @@
+---
+created: 2025-06-25
+---
+
 Tags: [[Vagabonds]]
 
 **Act 1** - Exposition[^1]

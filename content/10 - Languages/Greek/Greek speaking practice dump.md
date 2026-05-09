@@ -1,3 +1,7 @@
+---
+created: 2025-05-20
+---
+
 Tags: [[Greek]]
 
 - 5/20/25 - shit audio quality, switch mics next time

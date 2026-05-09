@@ -1,6 +1,7 @@
 ---
 title: launchpad
 publish: true
+created: 2026-05-04
 ---
 
 <div class="launch-hero">

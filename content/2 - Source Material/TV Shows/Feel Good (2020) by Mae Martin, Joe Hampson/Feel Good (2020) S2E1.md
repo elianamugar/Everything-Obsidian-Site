@@ -1,3 +1,7 @@
+---
+created: 2025-06-11
+---
+
 <u>9m00:</u> Mae calls George from rehab (they left things off broken up). George doesn't know Mae is at rehab, but Mae learns that she, herself, needs to grow up.
 
 G: Um, yeah, Mae, I've been like thinking about, like, what's important to me, um...

@@ -1,3 +1,7 @@
+---
+created: 2025-09-25
+---
+
 - [x] MobiMatter (find cheapest plan):
 	- [x] Greece, Cyprus, Turkey 1 plan (cheapest - 15days at least)
 	- [x] Egypt

@@ -1,3 +1,7 @@
+---
+created: 2025-06-01
+---
+
 Paper Republic Grand Voyageur (Pocket)
 - [ ] Daily log - draft layout (blank)
 	- [ ] Cover - reading, workout, watch, creative, Greek? (paper clip it to front)

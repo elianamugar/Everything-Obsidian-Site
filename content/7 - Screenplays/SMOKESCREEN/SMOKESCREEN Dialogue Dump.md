@@ -1,3 +1,7 @@
+---
+created: 2026-03-05
+---
+
 Tags: [[SMOKESCREEN]]
 - [x] Harriet: You are not a gentleman. You're the cruelest man of your kind.
 - [x] Harriet/Eleanor/Lord Holbrook: You have a child's spark buried underneath all that burden you carry.

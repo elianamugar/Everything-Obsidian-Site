@@ -1,3 +1,7 @@
+---
+created: 2026-05-05
+---
+
 ## Regions
 - [[Southeast Asia]]
 - [[East Asia]]

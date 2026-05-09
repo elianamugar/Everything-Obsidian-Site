@@ -1,1 +1,5 @@
+---
+created: 2025-05-12
+---
+
 Georg Wilhelm Friedrich Hegel (27 August 1770 – 14 November 1831) was _a German philosopher_ and a major figure in the tradition of German idealism
