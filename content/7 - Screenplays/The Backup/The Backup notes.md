@@ -1,7 +1,3 @@
----
-created: 2026-04-28
----
-
 Tags: [[The Backup]]
 
 - [x] Watch *First Man* burning scene
@@ -25,4 +21,5 @@ Questions:
 	- **Mission Classification:** Because the fire occurred during a pre-launch test rather than a live flight, there was no "post-flight" press conference like those held for successful missions (e.g., Apollo 11).
 
 Line dump:
-- Today didn't happen in a vacuum when you back up and see. Look at the chain of events. Multiple ideas engaging with each other, playing out in history, that led us to today.
+- [x] Today didn't happen in a vacuum when you back up and see. Look at the chain of events. Multiple ideas engaging with each other, playing out in history, that led us to today.
+- [ ] *Bluer Than Blue* by Michael Johnson piano scene

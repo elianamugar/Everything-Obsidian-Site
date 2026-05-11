@@ -6,7 +6,7 @@ created: 2026-04-09
 
 Status: #adult 
 
-Tags: [[Nihilism]] [[Philosophy]] [[America]] [[Happiness]]
+Tags: [[Nihilism]] [[Philosophy]] [[America]] [[Happiness]] [[Humanity]] [[mortality]]
 
 # Similarities of Gus and Jude
 
@@ -28,6 +28,13 @@ The way Gus and Jude both describe happiness as something that's "not for them" 
 It is interesting to note that Gus's character is usually jovial and optimistic, so this conversation is a bit of a shock to me as the reader. Maybe it's a change of character for Gus, or perhaps a lapse in change of character.
 
 At this point in time, I don't know how Gus's story will end, but Jude's ends in a tragedy where he finally takes one selfish action to live life the way he wants to – which is to take his own life away. By that model, I predict Gus will end in a similar fate.
+
+05/10/26 8:34 PM
+P.S. I have just finished the book today. My prediction was right – Gus did die, but Gus didn't take his own life. Well, in a way he did. He wandered right into an open field without taking precaution and suffered from poisonous arrow wounds. He even says this line when Pea Eye scolds him for not being careful and suffering the slings of arrows:
+
+>"Yes, but I like being free on the earth," Augustus said. "I'll cross the hills where I please."
+
+And so, he died doing what he pleased – being free. Now, he's ultimately free from the chains of mortality and humanity.
 
 ## References
 - [[A Little Life (2015) by Hanya Yanagihara]]

@@ -10,8 +10,6 @@ Tags: [[Philosophy]] [[Psychology]] [[Humanity]] [[America]]
 
 # Do your thoughts or actions define you?
 
-Intro (Hook + premise of essay)
-1-2 sentences
 If the thoughts you have are *bad*, does that make you a *bad person*? Does that stain your entire reputation, even if those thoughts were in the past? In *The Drama* (2026) directed by Kristoffer Borgli, Zendaya and Robert Pattinson play a couple (Emma and Charlie) on the week leading up to their wedding. During a wine tasting with their friends, Emma's friend in particular (Rachel) asks Emma and Charlie a question that kickstarts the inciting action: *What's the worst thing you've ever done?*
 
 Everyone responds. Mike (Rachel's husband) used his ex-girlfriend as a human shield against a dog. Rachel locked a "slow" kid in a closet for over a day and didn't tell anyone. Charlie cyberbullied someone. And Emma? She almost committed a school mass shooting. The important part is *almost*. She never did it. No action occurred. But the fact that she thought to do so and *almost* did it sparked outrage. Who it sparked outrage in is particularly interesting: Rachel.

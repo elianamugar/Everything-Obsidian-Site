@@ -8,7 +8,7 @@ Tags: [[Book]] [[Series]] [[Texas]] [[Montana]] [[America]] [[1980s]] [[1870s]]
 
 Genre: [[Western]] [[Fiction]]
 
-Rating:
+Rating: 5/5
 
 # Quotes
 - All America lies at the end of the wilderness road, and our past is not a dead past, but still lives in us. Our forefathers had civilization inside themselves, the wild outside. We live in the civilization they created, but within us the wilderness still lingers. What they dreamed, we live, and what they lived, we dream. -T. K. Whipple, *Study Out the Land*
@@ -215,7 +215,31 @@ Rating:
 - All men were mortal, and they felt particularly so.
 - "Since you refuse company, you'll have to drink alone. I have to go deliver a child into this unhappy world."
   "It's a fine world, though rich in hardships at times," Augustus said.
-
+- "I never took you for a suicide, Gus," Call said.
+- Call wasn't ready to give up, although he felt it was probably hopeless. "You got those two women, back in Nebraska," he pointed out. "Those women would race to take care of you."
+  "Clara's got one invalid already, and she's bored with him," Augustus said. "Lorie would look after me but it would be a sorry life for her."
+  "Not as sorry as the one you rescued her from," Call reminded him.
+  "You don't get the point, Woodrow," Augustus said. "I've walked the earth in my pride all these years. If that's lost, then let the rest be lost with it. There's certain things my vanity won't abide."
+- "Yes, but I like being free on the earth," Augustus said. "I'll cross the hills where I please."
+- "Do you want me to do anything about them Indians?" Call asked.
+  "Oh, no, Woodrow," Augustus said. "We won more than our share with the natives. They didn't invite us here, you know. We got no call to be vengeful. You start that and I'll spoil your appetite."
+- Call didn’t welcome the day. All he had to think about were mistakes, it seemed — mistakes and death.
+- Gus’s death, and the ones before it, had caused him to lose his sense of purpose to such an extent that he scarcely cared from one day of o the next what he was doing. (Call)
+- Gus’s death, and the ones before it, had caused him to lose his sense of purpose to such an extent that he scarcely cared from one day of o the next what he was doing. (Call)
+- And yet, when he looked at Newt, standing there in the cold wind, with Canada behind him, Call found he couldn't speak at all. It was as if his whole life had suddenly lodged in his throat, a raw bite he could neither spit out nor swallow. He had once seen a Ranger choke to death on a tough bite of buffalo meat, and he felt that he was choking, too – choking on himself. He felt he had failed in all he had tried to be: the good boy standing there was evidence of it.
+- He wished he had died on the Musselshell with Gus. It would have been easier than knowing he could not be honest. HIs own son stood there – surely, it was true; after doubt it for years, his own mind told him over and over that it was true – yet he couldn't call him a soon. His honesty was lost, had long been lost, and he only wanted to leave.
+- But he looked again at Newt. The boy looked so lonesome that he was reminded of his own father, who had never been comfortable with people. His father had fallen drunk out of a barn loft in Mississippi and broken his neck. Call remembered the watch that had been passed on to him, an old pocket watch with a thin gold case. He had carried it since he was a boy. He raised up in his stirrups, took it out of his pocket and handed it to Newt.
+  "It was my pa's," he said, and turned and left.
+  "Dern, Newt," Pea Eye said, more astonished than he had ever been in his life. "He gave you his horse and his gun and that watch. He acts like you're his kin."
+  "No, I ain't kin to nobody in this world," Newt said bitterly. "I don't want to be. I won't be."
+  Despair in his heart, he mounted the Hell Bitch as if he had ridden her for years, and turned downstream. He felt he never wanted to help for anything again, and yet no more than a minute later the strange hope struck him that the Captain might have turned back. He might have forgotten something – perhaps an order he had meant to give. Even that he would have welcomed. It felt so lonely to think of the Captain being gone. But when he turned to look, the Captain was merely a speck on the long plain. He was gone, and things would never be as Newt had hoped – never. Somehow it had been too hard for the Captain, and he had left.
+- Dear Clara–
+  I would be obliged if you'd look after Lorie. I fear she'll take this hard.
+  I'm down to one leg now and this life is fading fast, so I can't say more. Good luck to you and your gals, I hope you do well with the horses.
+  Gus
+- It’s too much death, she thought. Why does it keep coming to me? The dark heavens gave no answer. (Clara)
+- "I'll write him," she said. "I"ll see he gets your name if I have to carry the letter to Montana myself. And I'll tell you another thing: I'm sorry you and Gus McCrae ever met. All you two done was ruin one another, not to mention those close to you. Another reason I didn't marry him was because I didn't want to fight you for him every day of my life. You men and your promises: they're just excuses to do what you plan to do anyway, which is leave. You think you've always done right – that's your ugly pride, Mr. Call. But you never did right and it would be a sad woman that needed anything from you. You're a vain coward, for all your fighting. I despised you then, for what you were, and I despise you now, for what you're doing." -Clara
+- Call remembered he had told the young couple that he only had a short way to travel. It showed that his mind was probably going, for he had no place in particular to travel at all. Worn out, and with a festering wound, he was in no shape to turn back for Montana, and Jerry, the sun, could never have made the trip, even if he himself could have. He didn’t know that he wanted to go back, for that matter. He had never felt that he had any home on the earth anyway. He remembered riding to Texas in a wagon when just a boy — his parents were already dead. Since then it had been mostly roaming, the years in Lonesome Dove apart.
 # Thoughts
 - _Uva uvam vivendo varia fit_ is the Latin phrase Gus paints on the sign. He says he doesn't remember what it means (showing he's one of he more educated cowboys) since he learned the Latin in school. It literally translates to "the grape becomes different as the grape lives." But apparently, it's a misquote of the classical Latin proverb *Uva uvam videndo varia fit* (the second *v* in *vivendo* should be a *d*). It represents how people (or grapes) change and are influenced by the company they keep, acting as a metaphor for the friendships and relationships in the story.
 - Chapter 75: Clara's chapter is by far my favorite I think.

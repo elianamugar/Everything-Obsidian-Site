@@ -1,7 +1,3 @@
----
-created: 2025-06-15
----
-
 Tags: [[Vagabonds]]
 - Themes: immigration/moving place to place, what is home, alienation, loneliness, hyper independence, avoidance, love/fear of love, what is intimacy
 	- don't want to be too masculine in portrayal of depression
@@ -33,7 +29,7 @@ Tags: [[Vagabonds]]
 - [ ] Read *Letters to a Young Poet* by Rainer Maria Rilke 
 - [ ] Read *Letters to a Stoic* by Seneca (Scout)
 - [x] Read *Intermezzo* by Sally Rooney (Scout + Caroline)
-- [ ] Read *Perfection* by Vincenzo Latronico (Topic: Expats)
+- [x] Read *Perfection* by Vincenzo Latronico (Topic: Expats)
 - [ ] Read *Everything I Know About Love* by Dolly Alderton (Topic: British culture + Love)
 - [x] Read *A Portrait of the Artist as a Young Man* by James Joyce (Scout)
 - [ ] Read *The Portrait of a Lady* by Henry James (Scout)
