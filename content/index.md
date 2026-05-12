@@ -5,7 +5,7 @@ created: 2026-05-04
 ---
 
 <div class="launch-hero">
-  <img src="/Everything-Obsidian-Site/8%20-%20Source%20Images%20%2B%20Audio/grand_tour.jpg" alt="" />
+  <img src="./8 - Source Images + Audio/grand_tour.jpg" alt="" />
   <div class="launch-overlay"></div>
   <div class="launch-hero-text">
     <p>emug's everything obsidian site</p>
