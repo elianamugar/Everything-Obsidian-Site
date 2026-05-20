@@ -1,3 +1,7 @@
+---
+created: 2026-05-11
+---
+
 2026-05-11 01:31
 
 Tags: [[Contemporary]] [[Italy]] [[Germany]] [[2020s]] [[Globalization]] [[Capitalism]] [[Book]] [[Vagabonds]]

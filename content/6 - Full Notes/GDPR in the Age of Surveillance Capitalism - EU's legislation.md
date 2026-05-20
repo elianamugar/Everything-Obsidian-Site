@@ -1,3 +1,7 @@
+---
+created: 2026-03-17
+---
+
 
 
 # GDPR in the Age of Surveillance Capitalism - EU's legislation
