@@ -1,7 +1,3 @@
----
-created: 2026-05-07
----
-
 2026-05-07 13:02
 
 Status: #adult 
@@ -24,4 +20,4 @@ So, yeah, let's get rid of this grandiose idea of being a *good person*. It's a 
 - [[The Drama (2026) dir. Kristoffer Borgli]]
 - [[Black-and-white dichotomy for nuanced situations]]
 - [[Do your thoughts or actions define you?]]
-- [[Identity - linguistic definition]]
+- [[Identity - Linguistics vs. IR definition]]

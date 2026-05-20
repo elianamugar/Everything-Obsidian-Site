@@ -1,7 +1,3 @@
----
-created: 2026-03-15
----
-
 Tags: [[SMOKESCREEN]]
 - Literature inspiration:
 	- [ ] Jane Eyre by Charlotte Bronte

@@ -1,7 +1,3 @@
----
-created: 2026-03-13
----
-
 2026-03-13 16:31
 
 Status: #adult #analytical-paper 

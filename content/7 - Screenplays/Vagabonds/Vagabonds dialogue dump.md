@@ -1,7 +1,3 @@
----
-created: 2025-07-20
----
-
 Tags: [[Vagabonds]]
 
 SCOUT: Look, I don't wanna fall in love with anyone. If I fall in love, then I'll want to have a family. And if I want to have a family. I'll want kids. Adopted or not, I don't want to pass on anything to them genetically or mentally or... through some behaviors that I'm unaware of and accidentally get projected on this kid. Like, I don't want my flaws and failures to be inherited.

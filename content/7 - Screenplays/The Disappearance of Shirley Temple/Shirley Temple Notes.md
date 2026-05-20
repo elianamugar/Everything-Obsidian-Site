@@ -1,7 +1,3 @@
----
-created: 2026-03-27
----
-
 Tags: [[The Disappearance of Shirley Temple]]
 
 - *The Visitor* by SIENNA SPIRO

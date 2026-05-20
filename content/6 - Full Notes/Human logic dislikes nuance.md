@@ -1,7 +1,3 @@
----
-created: 2025-05-27
----
-
 2025-05-27 20:41
 
 Status: #adult #quote 

@@ -22,4 +22,9 @@ Questions:
 
 Line dump:
 - [x] Today didn't happen in a vacuum when you back up and see. Look at the chain of events. Multiple ideas engaging with each other, playing out in history, that led us to today.
-- [ ] *Bluer Than Blue* by Michael Johnson piano scene
+- [x] *Bluer Than Blue* by Michael Johnson piano scene
+	- [x] Jessie shrugs. Jessie: Why is everyone so scared to talk about death? It's gonna happen, no matter what. A beat. Sybil: You're smarter than I thought.
+- [x] Jessie: Im going to live my life as if I’m going to die the very next day. To the fullest.
+
+Recurring motifs:
+- Blind promises –> unkept promises

@@ -1,7 +1,3 @@
----
-created: 2025-05-14
----
-
 2025-05-14 18:26
 
 Status: #child #quote 

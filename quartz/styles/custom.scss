@@ -78,6 +78,53 @@
 }
 */
 
+:root {
+  --bg: #1d2021;
+  --bg-deep: #141617;
+  --text: #ebdbb2;
+  --muted: #a89984;
+  --accent: #d79921;
+  --aqua: #689d6a;
+  --green: #98971a;
+  --card: rgba(40, 40, 40, 0.72);
+  --border: rgba(235, 219, 178, 0.12);
+  --mono:
+    "IBM Plex Mono",
+    "JetBrains Mono",
+    monospace;
+}
+
+body {
+  background:
+    radial-gradient(circle at top, rgba(69, 133, 136, 0.08), transparent 28%),
+    radial-gradient(circle at bottom right, rgba(177, 98, 134, 0.06), transparent 24%),
+    linear-gradient(to bottom, var(--bg), var(--bg-deep));
+
+  color: var(--text);
+  font-family: "Inter", system-ui, sans-serif;
+}
+
+a {
+  color: var(--aqua);
+}
+
+h1, h2, h3 {
+  color: var(--text);
+}
+
+.page-title,
+.article-title {
+  letter-spacing: -0.06em;
+}
+
+pre,
+code,
+.folder-title,
+.search-button,
+.graph-title {
+  font-family: "IBM Plex Mono", monospace;
+}
+
 .launch-hero {
   position: relative;
   height: 340px;
@@ -278,4 +325,72 @@ body:has(article[data-slug="index"]) .graph canvas,
 body:has(article[data-slug="index"]) .graph svg {
   margin: 0 auto;
   display: block;
+}
+
+/* navigation + structure */
+
+.sidebar,
+.explorer,
+.folder-title,
+.search-button,
+.page-listing,
+.breadcrumb-container,
+.backlinks,
+.tag,
+.graph-title,
+.graph-controls,
+footer {
+  font-family: var(--mono);
+}
+
+/* metadata */
+
+.content-meta,
+.article-meta,
+.date,
+.tags,
+.reading-time {
+  font-family: var(--mono);
+  letter-spacing: 0.02em;
+  color: var(--muted);
+}
+
+/* headings */
+
+h1 {
+  font-family: var(--mono);
+  text-transform: lowercase;
+  letter-spacing: -0.04em;
+}
+
+h2,
+h3 {
+  font-family: var(--mono);
+  letter-spacing: -0.02em;
+}
+
+/* explorer/sidebar */
+
+.explorer-content ul li {
+  font-family: var(--mono);
+  font-size: 0.9rem;
+}
+
+/* graph */
+
+.graph-title {
+  text-transform: lowercase;
+}
+
+/* code-like labels */
+
+.tag,
+.folder-title,
+.search-button,
+.page-tag {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.15rem 0.5rem;
+
+  background: rgba(255,255,255,0.02);
 }

@@ -1,7 +1,3 @@
----
-created: 2026-04-01
----
-
 Tags: [[The Disappearance of Shirley Temple]]
 
 - [ ] Shirley or Patricia: you are my meaning of life. What is the point in living if we can’t- if i died you wouldn’t even know

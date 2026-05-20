@@ -1,7 +1,3 @@
----
-created: 2025-07-19
----
-
 TAGS: [[SMOKESCREEN]]
 *NELLIE*
 Very well off, but prefers to do the dirty work. Soon to inherit the Earldom.

@@ -1,7 +1,3 @@
----
-created: 2026-05-06
----
-
 2026-05-06 18:33
 
 Status: #adult 
@@ -16,5 +12,9 @@ My short answer: no. You will never *truly* walk the shoes of someone else. You 
 
 But I don't think you need to *truly* get to know someone to love them. I think Charlie got a bit caught up in society's opinions rather than his own feelings and had a break down trying to reconcile with both. Understanding someone and knowing they do good things seems enough. I think people's gut instincts are stronger in these situations than one might think. Charlie walks back to an empty house after the wedding, bloodied nose and all, and realizes how he's fucked up – he *does* love Emma and her absence makes him miserable. The chaos was unnecessary. So, does it truly matter if you will never truly get to know someone? I don't think so. As the saying goes: if you know, you know.
 
+P.S. (05/15/26): In [[IR]] I learned this new term from [[Kant]]:
+>*noumena*: the unknowable essence of objects as things in themselves, apart from how we may see them or how they may appear
+
+So, to add to this conversation. I think there will always be the *noumena*, or *unknowable essence* about someone, which is why you'll never truly get to know someone. ([[9.2 Intellectual Precursors and Influences#9.2.0 Intellectual Precursors and Influences]])
 ## References
 - [[The Drama (2026) dir. Kristoffer Borgli]]

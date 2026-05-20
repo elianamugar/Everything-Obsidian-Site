@@ -1,6 +1,3 @@
-
-
-# {{Title}}
 {{date}} {{time}}
 
 Tags:

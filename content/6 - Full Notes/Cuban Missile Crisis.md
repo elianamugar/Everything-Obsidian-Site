@@ -1,12 +1,8 @@
----
-created: 2026-03-13
----
-
 2026-03-13 14:41
 
 Status:
 
-Tags: [[Communism]] [[America]] [[USSR]] [[JFK]] [[Castro]] [[Cuba]] [[Khrushchev]] [[Eisenhower]] [[Dulles]] [[CIA]]
+Tags: [[Communism]] [[America]] [[USSR]] [[JFK]] [[Castro]] [[Cuba]] [[Khrushchev]] [[Eisenhower]] [[Dulles]] [[CIA]] [[Cold War]]
 
 # Cuban Missile Crisis
 

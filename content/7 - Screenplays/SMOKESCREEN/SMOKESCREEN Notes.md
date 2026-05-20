@@ -1,7 +1,3 @@
----
-created: 2026-03-01
----
-
 Tags: [[SMOKESCREEN]]
 - Reverse *Mulan*
 - Lord Holbrook must decide to raise Nellie as a son or let her decide. She decides it would be easier for her father to be raised a son. He hides her from society, not because he does not like her, but to protect her from society. She grows up wanting to be like her father, and her father is very much a girl dad. He learns to buy her men's clothes and hires a mercer to teach her how to make clothes.
