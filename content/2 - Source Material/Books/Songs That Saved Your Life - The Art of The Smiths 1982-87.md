@@ -4,7 +4,7 @@ created: 2026-03-06
 
 2026-03-06 22:41
 
-Tags:
+Tags: [[The Smiths]] [[1980s]]
 
 Genre: [[Biography]] [[Music]]
 

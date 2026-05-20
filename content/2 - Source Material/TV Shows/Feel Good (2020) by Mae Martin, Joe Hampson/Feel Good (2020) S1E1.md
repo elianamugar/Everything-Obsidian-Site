@@ -1,7 +1,3 @@
----
-created: 2025-06-11
----
-
 **<u>5m00:</u>** George attends Mae's comedy show (Mae notices she's been there for her third time), and after Mae ends the show, George makes an effort to meet her. This is their first meeting.
 
 M: Do you understand the rules of this game?

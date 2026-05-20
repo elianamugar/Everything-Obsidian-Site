@@ -1,7 +1,3 @@
----
-created: 2025-06-11
----
-
 <u>1m00:</u> George and Mae go shopping at a mall.
 
 G: My cousin Dina's only known this guy for three years. Don't you think it's mad they're getting married?
