@@ -6,7 +6,7 @@ created: 2026-05-15
 
 Status: #adult 
 
-Tags: [[Capitalism]] [[Philosophy]] [[Identity]] [[Economics]] [[cognitive mapping]] [[Existentialism]] [[Nihilism]]
+Tags: [[Capitalism]] [[Philosophy]] [[Identity]] [[Economics]] [[cognitive mapping]] [[Existentialism]] [[Nihilism]] [[postmodernism]]
 
 # Cognitive mapping and the discombobulation in the capitalist system in Perfection (2022)
 
