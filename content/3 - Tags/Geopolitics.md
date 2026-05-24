@@ -1,0 +1,1 @@
+the study of how geographical factors—such as location, resources, climate, and terrain—influence international politics, foreign policy, and state power

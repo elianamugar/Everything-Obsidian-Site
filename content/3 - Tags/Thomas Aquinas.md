@@ -1,0 +1,1 @@
+in relaiton to [[Thomist doctrine]]

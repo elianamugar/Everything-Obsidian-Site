@@ -1,0 +1,1 @@
+a 16th–18th century doctrine asserting that monarchs derive their authority directly from God, rendering them accountable only to divine authority rather than to earthly institutions like parliaments

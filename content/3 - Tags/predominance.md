@@ -1,0 +1,1 @@
+the state or condition of being greater in number or amount

@@ -1,0 +1,1 @@
+a method that selects the best, most useful, or most reasonable elements from various, often conflicting, theories, styles, or philosophies, rather than strictly adhering to a single, dogmatic framework
