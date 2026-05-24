@@ -1,5 +1,0 @@
----
-created: 2026-04-01
----
-
-a private dispute resolution process where a neutral third party (arbitrator) renders a binding decision, serving as a faster, less formal alternative to court litigation. It involves presenting evidence and testimony, governed by an arbitration agreement. While often cost-effective, it can be controversial due to mandatory clauses
