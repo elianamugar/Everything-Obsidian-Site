@@ -4,7 +4,7 @@ created: 2025-05-16
 
 2025-05-16 23:37
 
-Tags: [[2010s]] [[Contemporary]] [[Ireland]] [[Book]] [[Love]] [[Miscommunication]]
+Tags: [[2010s]] [[Contemporary]] [[Ireland]] [[Book]] [[Love]] [[Miscommunication]] [[Economics]] [[class conflict]]
 
 Genre: [[Fiction]] [[Literary Fiction]] [[Drama]] [[Romance]] [[Coming-of-Age]]
 

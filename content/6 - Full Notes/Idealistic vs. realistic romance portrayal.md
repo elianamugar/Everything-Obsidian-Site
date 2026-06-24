@@ -6,11 +6,11 @@ created: 2025-07-22
 
 Status: #adult 
 
-Tags: [[Love]] [[Romance]] [[Economics]] 
+Tags: [[Love]] [[Romance]] [[Economics]] [[Idealism]] [[Realism]] [[class conflict]]
 
 # Idealistic vs. realistic romance portrayal
 
-In *Materialists* (2025), Celine Song portrays an idealistic romance that should bar any idea of capitalism in the relationship. On the other hand, Sally Rooney portrays capitalism as a big influence in a relationship – the realistic type of romance in her work *Normal People* (2018).
+In *Materialists* (2025), Celine Song portrays an idealistic romance that should bar any idea of [[Capitalism]] in the relationship. On the other hand, Sally Rooney portrays capitalism as a big influence in a relationship – the realistic type of romance in her work *Normal People* (2018).
 
 In *Normal People*, Connell Waldron is seen as a popular, but anxious boy who cares about what other people think of him. There's less context in the limited series, but in the book it's apparent why he's like this. His mother *works* for Marianne's family. He's in the lower class and *needs* the scholarship at Trinity to pay off his entire education. For Marianne, the scholarship is just an extra merit – she doesn't need the help to pay off her time at Trinity. The things that matter and are important to Connell is in regards to his class standing. I'm not sure exactly where I saw this information, but Rooney has publicly identified herself as a Marxist. That much is apparent in this work.
 
