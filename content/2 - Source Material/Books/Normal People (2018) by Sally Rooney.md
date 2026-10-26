@@ -92,6 +92,12 @@ He smiles and looks into his glass. If Niall could see Marianne, he would say: D
 
 I don’t know, he says. Good question, I don’t know.
 
+### 71 (print)
+He understands now that his classmates are not like him. It's easy for them to have opinions, and to express them with confidence. They don't worry about appearing ignorant or conceited. They are not stupid people, but they're not so much smarter than him either. They just move through the world in a different way, and he'll probably never really understand them, and he knows they will never understand him, or even try.
+
+### 73 (print)
+Back home, Connell's shyness never seemed like much of an obstacle to his social life, because everyone knew who he was already, and there was never any need to introduce himself or create impressions about his personality. If anything, his personality seemed like something external to himself, managed by the opinions of others, rather than anything he individually did or produced. Now he has a sense of invisibility, nothingness, with no reputation to recommend him to anyone. Though his physical appearance has not changed, he feels objectively worse-looking than he used to be. He has become self-conscious about his clothes. All the guys in his class wear the same waxed hunting jackets and plum-colored chinos, not that Connell has a problem with people dressing how they want, but he would feel like a complete prick wearing that stuff. At the same time, it forces him to acknowledge that his own clothes are cheap and unfashionable. His only shoes are an ancient pair of Adidas trainers, which he wears everywhere, even to the gym.
+
 ### 82
 I have all kinds of hang-ups, says Marianne. Very neurotic.
 
@@ -196,6 +202,12 @@ Because you’re such a good friend, is it?
 
 Well, yeah, he says. I mean, I don’t know.
 
+### 128-131 (print)
+- Just pure miscommunication doom.
+
+### 132 (print)
+Marianne lifts her coffee cup. Connell can't figure out what kind of relationship they are supposed to have now. Are they agreeing not to find each other attractive anymore? When were they supposed to have stopped? Nothing in Marianne's behavior gives him any clue. In fact he suspects she is still attracted to him, and that she now finds it funny, like a private joke, to indulge an attraction to someone who could never belong in her world.
+
 ### 152
 You were the only one I got on with. Frankly I don’t think Jamie or Peggy are particularly good people. It’s not my business if you want to be friends with them, that’s just my opinion.
 
@@ -208,6 +220,15 @@ Marianne was surprised by this matter-of-fact turn in the conversation, and felt
 ### 155
 Could he really do the gruesome things he does to her and believe at the same time that he’s acting out of love? Is the world such an evil place, that love should be indistinguishable from the basest and most abusive forms of violence? Outside her breath rises in a fine mist and the snow keeps falling, like a ceaseless repetition of the same infinitesimally small mistake.
 
+### 166 (print)
+That's money, the substance that makes the world real. There's something so corrupt and sexy about it.
+
+### 168 (print)
+Now he looks into her cold interpretive eyes and thinks: Okay, I will miss her. He feels ambivalent about this, as if it's disloyal of him, because maybe he's enjoying how she looks or some physical aspect of her closeness. He's not sure what friends are allowed to enjoy about each other.
+
+### 175 (print)
+With Helen he doesn't feel shameful things, he doesn't find himself saying weird stuff during sex, **he doesn't have that persistent sensation that he belongs nowhere, that he will never belong anywhere**. Marianne had a wildness that got into him for a while and made him feel that he was like her, that they had the same unnameable spiritual injury, and that neither of them could ever fit into the world. But he was never damaged like she was. She just made him feel that way.
+
 ### 180
 It’s funny the decisions you make because you like someone, he says, and then your whole life is different. I think we’re at that weird age where life can change a lot from small decisions. But you’ve been a very good influence on me overall, like I definitely am a better person now, I think. Thanks to you.
 
@@ -216,6 +237,9 @@ Things that happened to her then are buried in the earth of her body. She tries 
 
 ### 191
 Whatever there is between him and Marianne, nothing good has ever come of it. It has only ever caused confusion and misery for everyone. He can't help Marianne, no matter what he does. There’s something frightening about her, some huge emptiness in the pit of her being. It’s like waiting for a lift to arrive and when the doors open nothing is there, just the terrible dark emptiness of the elevator shaft, on and on forever. She's missing some primal instinct, self-defence or self-preservation, which makes other human beings comprehensible. You lean in expecting resistance, and everything just falls away in front of you. Still, he would lie down and die for her at any minute, which is the only thing he knows about himself that makes him feel like a worthwhile person.
+
+### 196 (print)
+Everything is an effect with you, Marianne told him once. He took this as a compliment about his art. He does have immaculate taste. He's sensitive to the most minuscule of aesthetic failures, in painting, in cinema, even in novels or television shows. Sometimes when Marianne mentions a film she has recently watched, he waves his hand and says: It fails for me. This quality of discernment, she has realized, does not make Lukas a good person. He has managed to nurture a fine artistic sensitivity without ever developing any real sense of right and wrong. The fact that this is even possible unsettles Marianne, and makes art seem pointless suddenly.
 
 ### 197
 Sadie has a thing for you, you know.
@@ -301,6 +325,15 @@ To be honest, I don’t know what to do, he says. Say you want me to stay and I 
 She closes her eyes. He probably won’t come back, she thinks. Or he will, differently. What they have now they can never have back again. But for her the pain of loneliness will be nothing to the pain that she used to feel, of being unworthy. He brought her goodness like a gift and now it belongs to her. Meanwhile his life opens out before him in all directions at once. They’ve done a lot of good for each other. Really, she thinks, really. People can really change one another.
 
 You should go, she says. I’ll always be here. You know that.
+
+### 219 (print)
+He had just wanted to be normal, to conceal the parts of himself that he found shameful and confusing. It was Marianne who had shown him other things were possible. Life was different after that; maybe he had never understood how different it was.
+
+### 244-5 (print)
+She finds her clothes and puts them on. He starts getting dressed, he says he'll drive her home at least, and she says she wants to walk. It becomes a farcical competition between them, who can dress faster, and having a head start she finishes first and runs down the stairs. He's on the landing by the time she closes the front door behind her. Out on the street she feels like a petulant child, slamming the door on him like that while he raced out to the landing. Something has come over her, she doesn't know what it is. It reminds her of how she used to feel in Sweden, a kind of nothingness, like there's no life inside her. She hates the person she has become, without feeling any power to change anything about herself. She is someone even Connell finds disgusting, she has gone past what he can tolerate. In school they were both in the same place, both confused and somehow suffering, and ever since then she has believed if they could return to that place together it would be the same. Now she knows that in the intervening years Connell has been growing slowly more adjusted to the world, a process of adjustment that she has been steady if sometimes painful, while she herself has been degenerating, moving further and further from wholesomeness, becoming something unrecognizably debased, and they have nothing left in common at all.
+
+### 252 (print)
+He feels like he has ruined the life of everyone who has ever even marginally liked him.
 
 
 # Thoughts

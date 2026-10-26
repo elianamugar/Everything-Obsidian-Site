@@ -34,7 +34,7 @@ Tags: [[Vagabonds]]
 - [x] Read *A Portrait of the Artist as a Young Man* by James Joyce (Scout)
 - [ ] Read *The Portrait of a Lady* by Henry James (Scout)
 - [ ] Read *Open, Heaven* by Seán Hewitt (Scout)
-- [ ] Read *All Down Darkness Wide* by Seán Hewitt (mainly Scout, but also the relationship between Scout + Caroline)
+- [x] Read *All Down Darkness Wide* by Seán Hewitt (mainly Scout, but also the relationship between Scout + Caroline)
 - [ ] Read *The Remains of the Day* by Kazuo Ishiguro (topic: slow love story)
 - [ ] Read *Being and Nothingness* by Jean-Paul Sartre (topic: intimacy of being understood, this visibility is more intimate than love)
 - [ ] Read *The Passion According to G.H.* by Clarice Lispector (topic: intimacy of being understood)
