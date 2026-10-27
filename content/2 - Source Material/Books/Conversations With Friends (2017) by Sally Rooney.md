@@ -24,4 +24,69 @@ We looked at one another. Nick's face was handsome in the most generic way: clea
 ### 40
 Maybe having him witness how much others approved of me, without taking any of the risks necessary to earn Nick's personal approval, made me feel capable of speaking to him again, as if I also was an important person with lots of admirers like he was, as if there was nothing inferior about me. But the acclaim also felt like part of the performance itself, the best part, and the most pure expression of what I was trying to do, which was to make myself into this kind of person: someone worthy of praise, worthy of love.
 
+### 57
+I lay on the bed in my clothes and wondered if I was going to start feeling some particular emotion, like sadness or regret. Instead I just felt a lot of things I didn't know how to identify.
+
+### 58
+I wasn't the kind of person I pretended to be. I thought of myself trying to be witty in front of Nick's friends in the utility room and felt sick. I didn't belong in rich people's houses. I was only ever invited to places like that because of Bobbi, who belonged everywhere and had a quality about her that made me invisible by comparison.
+
+### 64
+Often I found myself believing that if I looked like Bobbi, nothing bad would happen to me. It wouldn't be like waking up with a new, strange face: it would be like waking up with a face I already knew, the face I already imagined was mine, and so it would feel natural.
+
+### 73
+During these discussions, Nick laughed at all my jokes. I told him I was easily seduced by people who laughed at my jokes and he said he was easily seduced by people who were smarter than he was.
+
+### 77
+In a mid-Atlantic cinema voice Nick said: the moment I meet an attractive woman, I have to start pretending I have no desire to make love to her.
+
+Do you typically pretend for long? I said.
+
+You tell me, Nick said in his normal voice.
+
+I think I figured it out pretty quickly. But I was concerned I was just deluding myself.
+
+Oh, I felt the same way about you.
+
+He had picked up the bottle and was refilling our glasses.
+
+So is this just sex, I said, or do you actually like me?
+
+Frances, you're drunk.
+
+You can tell me, I won't be offended.
+
+No, I know you won't, he said. I think you want me to say it's just sex.
+
+I laughed. I was happy he said that, because it was what I wanted him to think, and because I thought he really knew that and was just kidding around.
+
+Don't feel bad, I said. It's terribly enjoyable. I may have mentioned that before.
+
+### 79
+but even more than that it's really devaluing to our friendship to make out like i'm competing with a man for your attention. what does that say about how you see me? do you really rank our relationship below your passing sexual interest in some middle aged married guy? it hurt my fucking feelings actually.
+
+### 86-7
+Nick: are you awake
+me: yes
+Nick: so yeah look
+Nick: i don't know what you want
+Nick: obviously we can't see each other very often
+Nick: and having an affair is reasonably stressful
+me: haha
+me: are you breaking up with me
+Nick: if we never actually see one another
+Nick: then the affair just consists of like
+Nick: worrying about the affair
+Nick: do you see what i mean
+me: I can't believe you're breaking up with me over instant messenger
+me: I thought you were going to leave your wife so we could run away together
+Nick: you don't need to be defensive
+me: how do you know what I need
+me: maybe I'm actually really upset
+Nick: are you
+Nick: i never have any idea what you feel about anything
+me: well it doesn't really matter now, does it
+
+### 92
+Bobbi had a way of belonging everywhere. Though she said she hated the rich, her family was rich, and other wealthy people recognized her as one of their own. They took her radical politics as a kind of bourgeois self-deprecation, nothing very serious, and talked to her about restaurants or where to stay in Rome. I felt out of place in these situations, ignorant and bitter, but also fearful of being discovered as a moderately poor person and a communist. Equally, I struggled to make conversation with people of my own parents' background, afraid that my vowels sounded pretentious or my large flea-market coat made me look rich. Philip also suffered from looking rich, though in his case because he really was. We two often fell silent while Bobbi chatted effortlessly with taxi drivers about current affairs.
+
 # Thoughts
