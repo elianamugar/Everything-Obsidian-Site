@@ -89,4 +89,32 @@ me: well it doesn't really matter now, does it
 ### 92
 Bobbi had a way of belonging everywhere. Though she said she hated the rich, her family was rich, and other wealthy people recognized her as one of their own. They took her radical politics as a kind of bourgeois self-deprecation, nothing very serious, and talked to her about restaurants or where to stay in Rome. I felt out of place in these situations, ignorant and bitter, but also fearful of being discovered as a moderately poor person and a communist. Equally, I struggled to make conversation with people of my own parents' background, afraid that my vowels sounded pretentious or my large flea-market coat made me look rich. Philip also suffered from looking rich, though in his case because he really was. We two often fell silent while Bobbi chatted effortlessly with taxi drivers about current affairs.
 
+### 118-9
+No, I have these depressive episodes, he said. I'm on medication and everything.
+Really?
+Yeah, I was pretty sick for a while last year. And, uh. I had a bad week or two over in Edinburgh, with the pneumonia and all that. This is probably a very uninteresting thing to tell you about. But I'm feeling okay now anyway.
+It's not uninteresting, I said.
+I knew Bobbi would know what to say in this situation, because she had a lot of opinions about mental health in public discourse. Out loud I said: Bobbi thinks depression is a humane response to the conditions of late capitalism.
+
+### 126
+I couldn't tell whether she was being affectionate or vitriolic; she had a way of making them seem like the same thing.
+
+### 129
+All I could decide was whether or not to have sex with Nick; I couldn't decide how to feel about it, or what it meant. And although I could decide to fight with him, and what we should fight about, I couldn't decide what he would say, or how much it would hurt me. Curled up in bed with my arms folded I thought bitterly: he has all the power and I have none. This wasn't exactly true, but that night it was clear to me for the first time how badly I'd underestimated my vulnerability. I'd lied to everyone, to Melissa, even to Bobbi, just so I could be with Nick. I had left myself no one to confide in, no one who would feel any sympathy for what I'd done. And after all that, he was in love with someone else. I screwed my eyes shut and pressed my head down hard into the pillow. I thought of the night before, when he told me that he wanted me, how it felt then. Just admit it, I thought. He doesn't love you. That's what hurts.
+
+### 189-90
+It was true that Nick was an intelligent listener, and I often felt better after we spoke, but those things were true of Bobbi too. It was more that Nick's sympathy seemed unconditional, like he rooted for me regardless of how I acted, whereas Bobbi had strong principles that she applied to everyone, me included. I didn't fear Nick's bad judgement like I did Bobbi's. He was happy to listen to me even when my thoughts were inconclusive, even when I told stories about my own behavior that showed me in an unflattering light.
+
+### 191
+The sexual way you talk about money is kind of interesting, he said. Though also disturbing, obviously.
+
+### 193
+I mean, I'm a human being, I try clothes on before I buy them. But I think I understand what you're saying. People do tend to find me kind of cold and like, not very fun.
+I was excited that we shared an experience I found so personal, and quickly I said: people find me cold and lacking in fun.
+Really? he said. You always seemed charming to me.
+I was gripped by a sudden and overwhelming urge to say: I love you, Nick. It wasn't a bad feeling, specifically; it was slightly amusing and crazy, like when you stand up from your chair and suddenly realize how drunk you are. But it was true. I was in love with him.
+
+### 197
+In a deathly calm voice, staring directly into my face, Bobbi said: don't fucking use me.
+
 # Thoughts
