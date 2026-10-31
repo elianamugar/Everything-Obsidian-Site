@@ -11,7 +11,169 @@ Genre: [[Fiction]] [[Literary Fiction]]
 Rating: 5/5
 
 # Quotes
+
+### Lispenard Street
+### 14
+Later, however, Jude had offered a different interpretation: he had suggested that Willem was deliberately *not* reacting to all the women so the other men around him wouldn't feel threatened by him. This made more sense; Willem was liked by everyone and never wanted to make people feel intentionally uncomfortable, and so it was possible that, subconsciously at least, he was feigning a sort of ignorance. But still – it was fascinating to watch, and the three of them never tired of it, nor of making fun of Willem for it afterward, though he would normally just smile and say nothing.
+
+### 19
+"We don't get the families we deserve," Willem had said once when they had been very stoned. He was, of course, speaking of Jude.
+"I agree," JB had replied. And he did. None of them – not Willem, not Jude, not even Malcolm – had the families they deserved. But secretly, he made an exception for himself: He *did* have the family he deserved. They were wonderful, truly wonderful, and he knew it. And what's more, he *did* deserve them. (JB)
+
+### 21
+They were talking, but Jude's eyes were closed, and Willem knew – from the constant, hummingbird-flutter of his eyelids and the way his hand was curled into a fist so tight that Willem could see the ocean-green threads of his veins jumping under the back of his hand – that he was in pain. He knew from how rigid Jude was holding his legs, which were resting atop a box of books, that the pain was severe, and knew too that there was nothing he could do for him. If he said, "Jude, let me get you some aspirin," Jude would say, "I'm fine, Willem, I don't need anything," and if he said, "Jude why don't you lie down," Jude would say, "Willem, I'm *fine*. Stop worrying." So finally, he did what they had all learned over the years to do when Jude's legs were hurting him, which was to make some excuse, get up, and leave the room, so Jude could lie perfectly still and wait for the pain to pass without having to make conversation or expend energy pretending that everything was fine and that he was just tired, or had a cramp, or whatever feeble explanation he was able to invent.
+
+### 22
+- His feelings for Jude were complicated. He loved him – that part was simple – and feared for him, and sometimes felt as much his older brother and protector as his friend. He knew that Jude would be and had been fine without him, but he sometimes saw things in Jude that disturbed him and made him feel both helpless and, paradoxically, more determined to help him (although Jude rarely asked for help of any kind). They all loved Jude, and admired him, but he often felt that Jude had let him see a little more of him – just a little – than he had shown the others, and was unsure what he was supposed to do with that knowledge.
+- But he had never complained, not once, although he had never begrudged anyone else's complaining, either.
+
+### 23
+But Jude was always there. He had never had a girlfriend or a boyfriend, and he had always spent the night in their room, his presence beneath Willem's bunk as familiar and constant as the sea.
+
+### 24
+"But Jude," he said, quietly, "you're in pain. We have to get help."
+"Nothing will help," he said, and was silent for a few moments. "I just have to wait." His voice was whispery and faint, unfamiliar.
+"What can I do?" Willem asked.
+"Nothing," Jude said. They were quiet. "But Willem – will you stay with me for a little while?"
+"Of course," he said. Beside him, Jude trembled and shook as if chilled, and Willem took the comforter off his own bed and wrapped it around him. At one point he reached under the blanket and found Jude's hand and pried open his fist so he could hold his damp, callused palm. It had been a long time since he had held another guy's hand – not since his own brother's surgery many years ago – and he was surprised by how strong Jude's grip was, how muscular his fingers. Jude shuddered and chattered his teeth for hours, and eventually Willem lay down beside him and fell asleep.
+
+### 24-5
+"Willem, I'm so sorry," Jude said at last.
+"Jude," he said, "there's nothing to be sorry for." And he meant it; there wasn't.
+But "I'm sorry, Willem, I'm so sorry," Jude repeated, and no matter how many times Willem tried to reassure him, he wouldn't be comforted.
+
+### 25
+He had never discussed it with Jude, but in the years to come, he would see him in all sorts of pain, big pains and little ones, would see him wince at small hurts and occasionally, when the discomfort was too profound, would see him vomit, or pleat to the ground, or simply blank out and become insensate, the way he was doing in their living room now. But although he was a man who kept his promises, there was a part of him that always wondered why he had never raised the issue with Jude, why he had never made him discuss what it felt like, why he had never dared to do what instinct told him to do a hundred times: to sit down beside him and rub his legs, to try to knead back into submission those misfiring nerve endings. Instead here he was hiding in the bathroom, making busywork for himself as, a few yards away, one of his dearest friends sat alone on a disgusting sofa, making the slow, sad, lonely journey back to consciousness, back to the land of the living, without anyone at all by his side.
+"You're a coward," he said to his reflection in the bathroom mirror. His face looked back at him, tired with disgust. From the living room, there was only silence, but Willem moved to stand unseen at its border, waiting for Jude to return to him.
+
+### 27
+"Mark my words: that kid is going places," or "It's so rare to meet someone who's going to be a truly self-made star at the start of their career," his father would often announce to Malcolm and his mother after talking to Jude, looking pleased with himself, as if he was somehow responsible for Jude's genius, and in those moments Malcolm would have to avoid looking at his mother's face and the consoling expression he knew it wore.
+
+### 28
+Malcolm found this particularly galling, as his father was always telling him brocaded stories about how he had moved from the Grenadines to Queens as a child and how he had forever after felt like a man trapped between two countries, and someday Malcolm too should go be an expat somewhere because it would really enrich him as a person and give him some much needed perspective, etc., etc. And yet if Flora ever dared move off the island, much less to another country, Malcolm had no doubt that his father would fall apart.
+
+### 28-9
+At night, as beneath him his parents completed their routines, the banging of the old pipes as they washed their faces and the sudden thunk into silence as they turned down the living-room radiators better than any clock at indicating that it was eleven, eleven thirty, midnight, he made lists of what he needed to resolve, and fast, in the following year: his work (at a standstill), his love life (nonexistent), his sexuality (unresolved), his future (uncertain). The four items were always the same, although sometimes their order of priority changed. Also consistent was his ability to precisely diagnose their status, coupled with his utter inability to provide any solutions.
+
+### 29
+"Yes, Ma," he'd say. And then he'd eat his breakfast and leave for the day, stepping out into the world in which no one knew him, and in which he could be anyone.
+
+### 31-2
+Even he knew he had more in common with Asian Young Henry, with Malcolm, with Willem, or even with Jude, than he had with Haitians. Just look at him: at Court Square he disembarked and walked the three blocks to the former bottle factory where he now shared studio space with three other people. Did *real* Haitians have studio space? Would it even occur to *real* Haitians to leave their large rent-free apartment, where they could have theoretically carved out their own corner to paint and doodle, only to get on a subway and travel half an hour ( think how much work could be accomplished in those thirty minutes!) to a sunny dirty space? No, of course not. **To conceive of such a luxury you needed an American mind**.
+
+### 34
+You spent so much time *explaining* yourself, your work, to others – what it meant, what you were trying to accomplish, why you were trying to accomplish it, why you had chosen the colors and subject matter and materials and application and technique that you had – that it was a relief to simply be with another person to whom you didn't have to explain anything: you could just look and look, and when you asked questions, they were usually blunt and technical and literal. You could be discussing engines, or plumbing: a matter both mechanical and straightforward, for which there were only one or two possible answers.
+
+### 37
+...until one night, he was sitting in Jude and Willem's depressing apartment on their depressing sofa, watching the two of them assemble dinner, negotiating their way through their miniature kitchen like a bustling lesbian couple.
+
+### 39
+*Tonight, I am a camera*, he told himself, *and tomorrow I will be JB again*.
+
+### 40
+The renderings were realistic, but photo-realistic; he had never replaced Ali's camera with a better one, and he tried to make each painting capture that gently fuzzed quality the camera gave everything, as if someone had patted away the top layer of clarity and left behind something kinder than the eye alone would see.
+
+### 40-1
+At times he missed being part of the pictures himself; here was a whole narrative of his friends' lives, his absence an enormous missing part, but he also enjoyed the godlike role he played. He got to see his friends differently, not just as appendages to his life but as distinct characters inhabiting their own stories; he felt sometimes that he was seeing them for the first time, even after so many years of knowing them.
+
+### 41
+...Jude was by far the most self-conscious among them; in college, he turned his head or blocked his face whenever anyone tried to take his picture, and whenever he had smiled or laughed, he had reflexively covered his mouth with his hand, a tic that the rest of them had found upsetting, and which he had only learned to stop doing in the past few years.
+
+### 41-2
+He regretted his offer the instant he made it, for the truth was that Jude was his favorite of the three of them to paint: he was the most beautiful of them, with the most interesting face and the most unusual coloring, and he was the shyest, and so pictures of him always felt more precious than ones of the others.
+
+### 43
+The following week, Willem saw a Langston Hughes poster and called JB to tell him. "Langston *Hughes*?!" JB groaned. "Let me guess – 'A Dream Deferred,' right? I knew it! That shit doesn't count. Anyway, if something really *did* explode, that shit'd be done in two seconds flat."
+
+### 47
+Acting was like war, and they were veterans: they didn't want to think about the war, and they certainly didn't want to talk about it with naïfs who were still eagerly dashing toward the trenches, who were still excited to be in-country.
+
+### 48
+But these were days of self-fulfillment, where settling for something that was not quite your first choice of a life seemed weak-willed and ignoble. Somewhere, surrendering to what seemed to be your fate had changed from being dignified to being a sign of your own cowardice. There were times when the pressure to achieve happiness felt almost oppressive, as if happiness were something that everyone should and could attain, and that any sort of compromise in its pursuit was somehow your fault. Would Willem work for year upon year at Ortolan, catching the same trains to auditions, reading again and again and again, one year maybe caterpillaring an inch or two forward, his progress so minute that it hardly counted as progress at all? Would he someday have the courage to give up, and would he be able to recognize that moment, or would he wake one day and look in the mirror and find himself an old man, still trying to call himself an actor because he was too scared to admit that he might not be, might never be?
+
+### 49
+He knew he wasn't lazy, but the truth was that he lacked the sort of ambition that JB and Jude had, that grim, trudging determination that kept them at the studio or office longer than anyone else, that gave them that slightly faraway look in their eyes that always made him think a fraction of them was already living in some imagined future, the contours of which were crystallized only to them. JB's ambition was fueled by a lust for that future, for his speedy arrival to it; Jude's, he thought, was motivated more by a fear that if he didn't move forward, he would somehow slip back to his past, the life he had left and about which he would tell none of them. And it wasn't only Jude. and JB who possessed this quality: New York was populated by the ambitious. It was often the only thing that everyone here had in common.
+Ambition and atheism: "Ambition is my only religion," JB had told him late one beery night, and although to Willem this line sounded a little too practiced, like he was rehearsing it, trying to perfect its careless, throwaway tone before he someday got to say it for real to an interviewer somewhere, he also knew that JB was sincere. Only here did you feel compelled to somehow justify anything short of rabidity for your career; only here did you have to apologize for having faith in something other than yourself.
+
+### 51-2
+He didn't think of himself as particularly generous or unusually good-spirited. Most things came easily to him: sports, school, friends, girls. He wasn't *nice*, necessarily; he didn't seek to be everyone's friend, and he couldn't tolerate boors, or pettiness, or meanness. He was humble and hardworking, diligent, he knew, rather than brilliant. "Know your place," his father often said to him.
+
+### 52
+Perhaps because of this, he felt he always knew who and what he was, which is why, as he moved farther and then further away from the ranch and his childhood, he felt very little pressure to change or reinvent himself. He was a guest at his college, a guest in graduate school, and now he was a guest in New York, a guest in the lives of the beautiful and the rich. He would never try to pretend he was born to such things, because he knew he wasn't; he was a ranch hand's son from western Wyoming, and his leaving didn't mean that everything he had once been was erased, written over by time and experiences and the proximity to money.
+
+### 62-3
+And so he had begun his adulthood, the last three years spent bobbing from bank to bank in a muck-bottomed pond, the trees above and around him blotting out the light, making it too dark for him to see whether the lake he was in opened up into a river or whether it was contained, its own small universe in which he might spend years, decades – his life – searching bumblingly for a way out that didn't exist, had never existed.
+If he had an agent, someone to guide him, she might be able to show him how to escape, how to find his way downstream. But he didn't, not yet (he had to be optimistic enough to think it was still a matter of "yet"), and so he was left in the company of other seekers, all of them looking for that same elusive tributary, through which few left the lake and by which no one ever wanted to return.
+He was willing to wait. He *had* waited. But recently, he could feel his patience sharpening itself into something splintery and ragged, chipping into dry little bits.
+Still – he was not an anxious person, he was not inclined toward self-pity. Indeed, there were moments when, returning from Ortolan or from a rehearsal for a play in which he would be paid almost nothing for a week's work, so little that he wouldn't have been able to afford the prix fixe at the restaurant, he would enter the apartment with a feeling of accomplishment. Only to him and Jude would Lispenard Street be considered an achievement – for as much work as he had done to it, and as much as Jude had cleaned it, it was still sad, somehow, and furtive, as if the place was embarrassed to call itself a real apartment – but in those moments he would at times find himself thinking, *This is enough. This is more than I hoped*. To be in New York, to be an adult, to stand on a raised platform of wood and say other people's words! – it was an absurd life, a not-life, a life his parents and his brother would never have dreamed for themselves, and yet he got to dream it for himself every day.
+But then the feeling would dissipate, and he would be left alone to san the arts section of the paper, and read about other people who were doing the kinds of things he didn't even have the expansiveness, the arrogance of imagination to dream of, and in those hours the world would feel very large, and the lake very empty, and the night very black, and he would wish he were back in Wyoming, waiting at the end of the road for Hemming, where the only path he had to navigate was the one back to his parents' house, where the porch light washed the night with honey.
+
+### 70-1
+The New York that Malcolm and his family occupied was one divided not along racial lines but rather tax brackets, and Malcolm had grown up insulated from everything that money could protect him from, including bigotry itself – or so it in retrospect seemed.
+
+### 71
+Even today, almost a decade after meeting him, he still had trouble comprehending the sort of poverty that Jude had been raised in – his disbelief when he finally realized that the backpack Jude had arrived to college with had contained, literally, everything on earth in his possession had been so intense that it had been almost physical, so profound that he had mentioned it to his father, and he was not in the habit of revealing to his father evidence of his naïveté, for fear of provoking a lecture about his naïveté. But even his father, who had grown up poor in Queens – albeit with two working parents and a new set of clothes every year – had been shocked, Malcolm sensed, although he had endeavored to conceal it by sharing a story of his own childhood deprivation (something about a Christmas tree that had to be bought the day after Christmas), as if lack of privilege were a competition that he was still determined to win, even in the face of another's clear and inarguable triumph.
+
+### 74
+Even as a very young boy, he had always drawn imaginary buildings, built imaginary structures: they were a comfort and they were a repository – everything he was unable to articulate, everything he was unable to decide, he could, it seemed, resolve in a building.
+
+### 84
+- They were lucky then, both of them, that Malcolm and JB returned before they had to continue talking, but not before Willem heard Jude begin to ask "Why are – " and although he never finished his sentence (and indeed, didn't speak to Willem once throughout dinner, through which he kept his sleeves perfectly neat), Willem knew that his question would not have been "Why are you asking me this?" but "Why are *you* asking me this" because Willem had always been careful not to express too much interest in exploring the many cupboarded cabinet in which Jude had secreted himself.
+- But this was part of the deal when you were friends with Jude: he knew it, Andy knew it, they all knew it. You let things slide that your instincts told you not to, you scooted around the edges of your suspicions. You understood that proof of your friendship lay in keeping your distance, in accepting what was told you, in turning and walking away when the door was shut in your face instead of trying to force it open again.
+
+### 90
+He had always been mystified by Jude's hyper-preparedness, his dedication to finding disaster everywhere – he had long ago noticed Jude's habit of, upon entering any new room or space, searching for the nearest exit and then standing close to it, which had initially been funny and then, somehow, became less so – and his equal dedication to implementing preventative measures whenever he could.
+
 ## The Postman
+
+### 98-9
+His own approach to thirty had triggered no latent panic, no fluster of activity, no need to rearrange the outlines of his life to more closely resemble what a thirty-year-old's life ought to be. The same was not true for his friends, however, and he had spent the last three years of his twenties listening to their eulogies for the decade, and their detailing of what they had and hadn't done, and the cataloging of their self-loathings and promises.
+
+### 99
+Here, time was his, and space was his, and every door could be shut, every window locked.
+
+### 100
+- But it had still made him feel vulnerable, yet another piece of evidence added to the overstuffed file testifying to his pinched prissiness, his fundamental and irreparable inability to be the sort of person he tried to make people believe he was.
+- Or that those moments alone in the kitchen were something akin to meditative, the only times he found himself truly relaxing, his mind ceasing to scrabble forward, planning in advance the thousands of little deflections and smudgings of truth, of fact, that necessitated his every interaction with the world and its inhabitants? To no one, he knew, not even to Willem. But he'd had years to learn how to keep his thoughts to himself; unlike his friends, he had learned not to share evidence of his oddities as a way to distinguish himself from others, although he was happy and proud that they shared theirs with him.
+
+### 103
+"What do you think's wrong with Felix?" Mr. Baker had demanded.
+He hadn't been expecting this question, so he had to think before he answered. "I don't think anything's wrong with him, sir," he'd said, carefully. "I just think he's not –" *Happy*, he nearly said. But what was happiness but an extravagance, an impossible state to maintain, partly because it was so difficult to articulate? He couldn't remember being a child and being able to define happiness: there was only misery, or fear, and the absence of misery of fear, and the latter state was all he had needed or wanted. "I think he's shy," he finished.
+
+### 104
+Who could know if Felix would ever have friends? Friendship, companionship: it so often defied logic, so often eluded the deserving, so often settled itself on the odd, the bad, the peculiar, the damaged.
+
+### 105-6
+He knew French and German. He knew the periodic table. He knew – as much as he didn't care to – large parts of the Bible almost by memory. He knew how to help birth a calf and rewire a lamp and unclog a drain and the most efficient way to harvest a walnut tree and which mushrooms were poisonous and which were not and how to bale hay and how to test a watermelon, an apple, a squash, a muskmelon for freshness by thunking it in the right spot. (And then he knew things he wished he didn't, things he hoped never to have to use again, things that, when he thought of them or dreamed of them at night, made him curl into himself with hatred and shame.)
+And yet it often seemed he knew nothing of any real value or use, not really. The languages and the math, fine. But daily he was reminded of how much he didn't know. He had never heard of the sitcoms whose episodes were constantly referenced. He had never been to a movie. He had never gone on vacation. He had never been to summer camp. He had never had pizza or popsicles or macaroni and cheese (and he had certainly never had – as both Malcolm and JB had – foie gras or sushi or marrow). He had never owned a computer or a phone, he had rarely been allowed to go online. He had never owned anything, he realized, not really: the books he had that he was so proud of, the shirts he repaired again and again, they were nothing, they were trash, the pride he took in them was more shameful than not owning anything at all. The classroom was the safest place, and the only place he felt fully confident: everywhere else was an unceasing avalanche of marvels, each more baffling than the next, each another reminder of his bottomless ignorance. He found himself keeping mental lists of new things he had heard and encountered. But he could never ask anyone for the answers. To do so would be an admission of extreme otherness, which would invite further questions and would leave him exposed, and which would inevitably lead to conversations he definitely was not prepared to have. He felt, often, not so much foreign – for even the foreign students (even Odval, from a village outside Ulaanbaatar) seemed to understand these references – as from another time altogether: his childhood might well have been spent in the nineteenth century, not the twenty-first, for all he had apparently missed, and for how obscure and merely decorative what he *did* know seemed to be. How was it that apparently all of his peers, whether they were born in Lagos or Los Angeles, had had more or less the same experience, with the same cultural landmarks? Surely there was someone who knew as little as he did? And if not, how was he ever to catch up?
+
+### 107
+- His silence was both a necessity and a protection, and had the added benefit of making him appear more mysterious and more interesting than he knew he was. "What about you, Jude?" a few people had asked him, early in the term, and he knew enough by then – he was a fast learner – to simply shrug and say, with a smile, "It's too boring to get into." He was astonished but relieved by how easily they accepted that, and grateful too for their self-absorption. None of them really wanted to listen to someone else's story anyway; they only wanted to tell their own.
+- "Or," JB had continued, "you have to be so genuinely uncategorizable that the normal terms of identity don't even apply to you." JB had turned toward him, then, and he had felt himself freeze with a momentary terror. "Like Judy here: we never see him with anyone, we don't know what race he is, we don't know anything about him. Post-sexual, post-racial, post-identity, post-past." He smiled at him, presumably to show he was at least partly joking. "The post-man. Jude the Postman."
+
+### 107-8
+...he was reminded that as much as he had convinced himself he was fitting in, as much as he worked to conceal the spiky odd parts of himself, he was fooling no one. They knew he was strange, and now his foolishness extended to his having convinced himself that he had convinced *them* that he wasn't.
+
+### 108
+Sometimes during these sessions (he had begun to think of them this way, as intensive tutorials in which he could correct his own cultural paucities) he would catch Willem watching him with an indecipherable expression on his face, and would wonder how much Willem might have guessed about him. Sometimes he had to stop himself from saying something to him. Maybe he was wrong, he sometimes thought. Maybe it would be nice to confess to someone that most of the time he could barely relate to what was being discussed, that he couldn't participate in everyone else's shared language of childhood pratfalls and frustrations. But then he would stop himself, for admitting ignorance of the language would mean having to explain the one he *did* speak.
+Although if he were to tell anyone, he knew it would be Willem.
+
+### 108-9
+And increasingly he was certain Willem knew something (*Knows what?* he'd argue with himself, in saner moments. *You're just looking for a reason to tell him, and then what will he think of you? Be smart. Say nothing. Have some self-control.*) But this was of course illogical. He knew even before he got to college that his childhood had been atypical – you only had to read a few books to come to that conclusion – but it wasn't until recently that he had realized how atypical it truly was. Its very strangeness both insulated and isolated him: it was near inconceivable that anyone would guess at its shape and specificities, which meant that if they did, it was because he had dropped clues like cow turds, great ugly unmissable pleas for attention.
+Still. The suspicion persisted, sometimes with an uncomfortable intensity, as if it was inevitable that he should say something and was being sent messages that took more energy to ignore than they would have to obey.
+
+### 112
+"The easiest explanations are often the right ones," his math professor, Dr. Li, always said, and maybe the same principle applied here. Except he knew it didn't. Math was one thing. Nothing else was that reductive.
+But the odd thing was this: by his story morphing into one about a car accident, he was being given an opportunity for reinvention; all he had to do was claim it. But he never could. He could never call it an accident, because it wasn't. And so was it pride or stupidity to not take the escape route he'd been offered? He didn't know.
+
+### 112-3
+"A car injury," he heard Willem's reply, as from across a great black lake.
+But it wasn't until that night that he registered what Willem had said, and the word he had used: injury, not accident. Was it deliberate, he wondered? What did Willem know?
+
+### 119-20
+She was quiet. "One thing I've learned," she said, "you have to talk about these things while they're fresh. Or you'll never talk about them. I'm going to teach you how to talk about them, because it's going to get harder and harder the longer you wait, and it's going to fester inside you, and you're always going to think you're to blame. You'll be wrong, of course, but you'll always think it." He didn't know how to respond to that, but the next day, when she brought it up again, he shook his head and turned away from her, even though she called after him. "Jude," she said once, "I've let you go on for too long without addressing this. This is my fault."
+"Do it for me, Jude," she said at another point. But he couldn't; he couldn't find the language to talk about it, not even to her. Besides, he didn't want to relive those years. He wanted to forget them, to pretend they belonged to someone else.
+
 ### 129
 “You said to never just accept anything,” he reminded Harold.
 
